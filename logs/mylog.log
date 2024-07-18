@@ -1,0 +1,283 @@
+[INFO ] 2024-07-16 19:20:13.173 [main] AutomationExercise - url opened
+[INFO ] 2024-07-16 19:20:14.493 [main] AutomationExercise - Click on Contact Us Link
+[INFO ] 2024-07-16 19:21:19.543 [main] AutomationExercise - url opened
+[INFO ] 2024-07-16 19:21:21.036 [main] AutomationExercise - Click on Contact Us Link
+[INFO ] 2024-07-16 19:21:21.071 [main] AutomationExercise - GET IN TOUCH' is visible on the account delete page.
+[INFO ] 2024-07-16 19:21:21.222 [main] AutomationExercise - Enter name
+[INFO ] 2024-07-16 19:21:21.308 [main] AutomationExercise - Enter email
+[INFO ] 2024-07-16 19:21:21.377 [main] AutomationExercise - Enter Subject
+[INFO ] 2024-07-16 19:21:21.451 [main] AutomationExercise - Enter Message
+[INFO ] 2024-07-16 19:21:21.509 [main] AutomationExercise - Click on Submit
+[INFO ] 2024-07-16 19:22:12.312 [main] AutomationExercise - url opened
+[INFO ] 2024-07-16 19:22:14.725 [main] AutomationExercise - Click on Contact Us Link
+[INFO ] 2024-07-16 19:22:14.813 [main] AutomationExercise - GET IN TOUCH' is visible on the account delete page.
+[INFO ] 2024-07-16 19:22:14.928 [main] AutomationExercise - Enter name
+[INFO ] 2024-07-16 19:22:15.037 [main] AutomationExercise - Enter email
+[INFO ] 2024-07-16 19:22:15.113 [main] AutomationExercise - Enter Subject
+[INFO ] 2024-07-16 19:22:15.202 [main] AutomationExercise - Enter Message
+[INFO ] 2024-07-16 19:24:46.721 [main] AutomationExercise - url opened
+[INFO ] 2024-07-16 19:24:48.009 [main] AutomationExercise - Click on Contact Us Link
+[INFO ] 2024-07-16 19:24:48.140 [main] AutomationExercise - GET IN TOUCH' is visible on the account delete page.
+[INFO ] 2024-07-16 19:24:48.317 [main] AutomationExercise - Enter name
+[INFO ] 2024-07-16 19:24:48.429 [main] AutomationExercise - Enter email
+[INFO ] 2024-07-16 19:24:48.500 [main] AutomationExercise - Enter Subject
+[INFO ] 2024-07-16 19:24:48.574 [main] AutomationExercise - Enter Message
+[INFO ] 2024-07-16 19:24:48.636 [main] AutomationExercise - Click on Submit
+[INFO ] 2024-07-17 15:24:58.857 [main] AutomationExercise - url opened
+[INFO ] 2024-07-17 15:24:59.987 [main] AutomationExercise - Click on test cases button
+[INFO ] 2024-07-17 15:24:59.996 [main] AutomationExercise - Testcase Page is visible Successfully
+[INFO ] 2024-07-17 15:44:13.549 [main] AutomationExercise - url opened
+[INFO ] 2024-07-17 15:46:14.986 [main] AutomationExercise - url opened
+[INFO ] 2024-07-17 15:46:16.303 [main] AutomationExercise - Click on product button
+[INFO ] 2024-07-17 15:46:16.320 [main] AutomationExercise - All Product Page is visible Successfully
+[INFO ] 2024-07-17 15:46:16.339 [main] AutomationExercise - Products list is visible.
+[INFO ] 2024-07-17 15:50:32.824 [main] AutomationExercise - url opened
+[INFO ] 2024-07-17 15:50:34.351 [main] AutomationExercise - Click on product button
+[INFO ] 2024-07-17 15:50:34.365 [main] AutomationExercise - All Product Page is visible Successfully
+[INFO ] 2024-07-17 15:50:34.386 [main] AutomationExercise - Products list is visible.
+[INFO ] 2024-07-17 15:56:48.066 [main] AutomationExercise - url opened
+[INFO ] 2024-07-17 15:56:49.315 [main] AutomationExercise - Click on product button
+[INFO ] 2024-07-17 15:56:49.326 [main] AutomationExercise - All Product Page is visible Successfully
+[INFO ] 2024-07-17 15:56:49.342 [main] AutomationExercise - Products list is visible.
+[INFO ] 2024-07-17 15:56:50.624 [main] AutomationExercise - Click on view product button
+[INFO ] 2024-07-17 16:14:24.976 [main] AutomationExercise - url opened
+[INFO ] 2024-07-17 16:14:26.646 [main] AutomationExercise - Click on product button
+[INFO ] 2024-07-17 16:14:26.659 [main] AutomationExercise - All Product Page is visible Successfully
+[INFO ] 2024-07-17 16:14:26.677 [main] AutomationExercise - Products list is visible.
+[INFO ] 2024-07-17 16:14:51.672 [main] AutomationExercise - url opened
+[INFO ] 2024-07-17 16:14:53.523 [main] AutomationExercise - Click on product button
+[INFO ] 2024-07-17 16:14:53.539 [main] AutomationExercise - All Product Page is visible Successfully
+[INFO ] 2024-07-17 16:14:53.554 [main] AutomationExercise - Products list is visible.
+[INFO ] 2024-07-17 16:15:54.339 [main] AutomationExercise - url opened
+[INFO ] 2024-07-17 16:15:55.567 [main] AutomationExercise - Click on product button
+[INFO ] 2024-07-17 16:15:55.577 [main] AutomationExercise - All Product Page is visible Successfully
+[INFO ] 2024-07-17 16:15:55.592 [main] AutomationExercise - Products list is visible.
+[INFO ] 2024-07-17 16:15:57.023 [main] AutomationExercise - Click on view product button
+[INFO ] 2024-07-17 16:15:57.029 [main] AutomationExercise - Product Details Page is visible Successfully
+[INFO ] 2024-07-17 16:15:57.054 [main] AutomationExercise - Product name is visible.
+[INFO ] 2024-07-17 16:17:30.904 [main] AutomationExercise - url opened
+[INFO ] 2024-07-17 16:17:32.450 [main] AutomationExercise - Click on product button
+[INFO ] 2024-07-17 16:17:32.462 [main] AutomationExercise - All Product Page is visible Successfully
+[INFO ] 2024-07-17 16:17:32.479 [main] AutomationExercise - Products list is visible.
+[INFO ] 2024-07-17 16:17:53.955 [main] AutomationExercise - url opened
+[INFO ] 2024-07-17 16:17:55.654 [main] AutomationExercise - Click on product button
+[INFO ] 2024-07-17 16:17:55.665 [main] AutomationExercise - All Product Page is visible Successfully
+[INFO ] 2024-07-17 16:17:55.681 [main] AutomationExercise - Products list is visible.
+[INFO ] 2024-07-17 16:18:37.852 [main] AutomationExercise - url opened
+[INFO ] 2024-07-17 16:18:39.074 [main] AutomationExercise - Click on product button
+[INFO ] 2024-07-17 16:18:39.086 [main] AutomationExercise - All Product Page is visible Successfully
+[INFO ] 2024-07-17 16:18:39.102 [main] AutomationExercise - Products list is visible.
+[INFO ] 2024-07-17 16:18:40.773 [main] AutomationExercise - Click on view product button
+[INFO ] 2024-07-17 16:18:40.783 [main] AutomationExercise - Product Details Page is visible Successfully
+[INFO ] 2024-07-17 16:18:40.820 [main] AutomationExercise - Product name is visible.
+[INFO ] 2024-07-17 16:18:40.878 [main] AutomationExercise - Category is visible.
+[INFO ] 2024-07-17 16:18:40.905 [main] AutomationExercise - Price is visible.
+[INFO ] 2024-07-17 16:18:40.935 [main] AutomationExercise - Availability is visible.
+[INFO ] 2024-07-17 16:20:58.533 [main] AutomationExercise - url opened
+[INFO ] 2024-07-17 16:21:00.313 [main] AutomationExercise - Click on product button
+[INFO ] 2024-07-17 16:21:00.328 [main] AutomationExercise - All Product Page is visible Successfully
+[INFO ] 2024-07-17 16:21:00.348 [main] AutomationExercise - Products list is visible.
+[INFO ] 2024-07-17 16:22:47.773 [main] AutomationExercise - url opened
+[INFO ] 2024-07-17 16:22:50.299 [main] AutomationExercise - Click on product button
+[INFO ] 2024-07-17 16:22:50.313 [main] AutomationExercise - All Product Page is visible Successfully
+[INFO ] 2024-07-17 16:22:50.336 [main] AutomationExercise - Products list is visible.
+[INFO ] 2024-07-17 16:23:43.055 [main] AutomationExercise - url opened
+[INFO ] 2024-07-17 16:23:44.491 [main] AutomationExercise - Click on product button
+[INFO ] 2024-07-17 16:23:44.507 [main] AutomationExercise - All Product Page is visible Successfully
+[INFO ] 2024-07-17 16:23:44.526 [main] AutomationExercise - Products list is visible.
+[INFO ] 2024-07-17 16:24:00.379 [main] AutomationExercise - url opened
+[INFO ] 2024-07-17 16:24:02.781 [main] AutomationExercise - Click on product button
+[INFO ] 2024-07-17 16:24:02.828 [main] AutomationExercise - All Product Page is visible Successfully
+[INFO ] 2024-07-17 16:24:02.865 [main] AutomationExercise - Products list is visible.
+[INFO ] 2024-07-17 16:25:49.407 [main] AutomationExercise - url opened
+[INFO ] 2024-07-17 16:25:51.204 [main] AutomationExercise - Click on product button
+[INFO ] 2024-07-17 16:25:51.216 [main] AutomationExercise - All Product Page is visible Successfully
+[INFO ] 2024-07-17 16:25:51.234 [main] AutomationExercise - Products list is visible.
+[INFO ] 2024-07-17 16:25:53.136 [main] AutomationExercise - Click on view product button
+[INFO ] 2024-07-17 16:25:53.143 [main] AutomationExercise - Product Details Page is visible Successfully
+[INFO ] 2024-07-17 16:25:53.171 [main] AutomationExercise - Product name is visible.
+[INFO ] 2024-07-17 16:25:53.198 [main] AutomationExercise - Category is visible.
+[INFO ] 2024-07-17 16:25:53.255 [main] AutomationExercise - Price is visible.
+[INFO ] 2024-07-17 16:25:53.281 [main] AutomationExercise - Availability is visible.
+[INFO ] 2024-07-17 16:25:53.305 [main] AutomationExercise - Condition is visible.
+[INFO ] 2024-07-17 16:25:53.342 [main] AutomationExercise - Brand is visible.
+[INFO ] 2024-07-18 07:29:21.692 [main] AutomationExercise - url opened
+[INFO ] 2024-07-18 07:29:24.398 [main] AutomationExercise - Click on product button
+[INFO ] 2024-07-18 07:29:24.411 [main] AutomationExercise - All Product Page is visible Successfully
+[INFO ] 2024-07-18 07:29:24.434 [main] AutomationExercise - Products list is visible.
+[INFO ] 2024-07-18 07:29:27.592 [main] AutomationExercise - Click on product button
+[INFO ] 2024-07-18 07:29:27.604 [main] AutomationExercise - All Product Page is visible Successfully
+[INFO ] 2024-07-18 07:29:27.754 [main] AutomationExercise - Enter search keyword
+[INFO ] 2024-07-18 07:29:29.675 [main] AutomationExercise - Click on Search button
+[INFO ] 2024-07-18 07:29:29.717 [main] AutomationExercise - Search Product testcase - Passed
+[INFO ] 2024-07-18 07:43:21.166 [main] AutomationExercise - url opened
+[INFO ] 2024-07-18 07:43:21.237 [main] AutomationExercise - Homepage is visible successfully.
+[INFO ] 2024-07-18 07:51:16.442 [main] AutomationExercise - url opened
+[INFO ] 2024-07-18 07:51:16.488 [main] AutomationExercise - Homepage is visible successfully.
+[INFO ] 2024-07-18 07:53:14.284 [main] AutomationExercise - url opened
+[INFO ] 2024-07-18 07:53:14.342 [main] AutomationExercise - Homepage is visible successfully.
+[INFO ] 2024-07-18 07:53:14.456 [main] AutomationExercise - SUBSCRIPTION is visible on the home page.
+[INFO ] 2024-07-18 08:00:48.741 [main] AutomationExercise - url opened
+[INFO ] 2024-07-18 08:00:48.787 [main] AutomationExercise - Homepage is visible successfully.
+[INFO ] 2024-07-18 08:00:48.891 [main] AutomationExercise - SUBSCRIPTION is visible on the home page.
+[INFO ] 2024-07-18 08:00:49.019 [main] AutomationExercise - enter subscription email
+[INFO ] 2024-07-18 08:00:49.090 [main] AutomationExercise - Click on subscription button
+[INFO ] 2024-07-18 08:01:37.744 [main] AutomationExercise - url opened
+[INFO ] 2024-07-18 08:01:37.786 [main] AutomationExercise - Homepage is visible successfully.
+[INFO ] 2024-07-18 08:01:37.886 [main] AutomationExercise - SUBSCRIPTION is visible on the home page.
+[INFO ] 2024-07-18 08:01:38.053 [main] AutomationExercise - enter subscription email
+[INFO ] 2024-07-18 08:01:38.106 [main] AutomationExercise - Click on subscription button
+[INFO ] 2024-07-18 08:01:38.129 [main] AutomationExercise - 'You have been successfully subscribed!' is visible on the home page.
+[INFO ] 2024-07-18 08:01:59.481 [main] AutomationExercise - url opened
+[INFO ] 2024-07-18 08:01:59.592 [main] AutomationExercise - Homepage is visible successfully.
+[INFO ] 2024-07-18 08:01:59.660 [main] AutomationExercise - SUBSCRIPTION is visible on the home page.
+[INFO ] 2024-07-18 08:01:59.936 [main] AutomationExercise - enter subscription email
+[INFO ] 2024-07-18 08:02:00.002 [main] AutomationExercise - Click on subscription button
+[INFO ] 2024-07-18 08:02:00.035 [main] AutomationExercise - 'You have been successfully subscribed!' is visible on the home page.
+[INFO ] 2024-07-18 08:07:02.228 [main] AutomationExercise - url opened
+[INFO ] 2024-07-18 08:07:02.284 [main] AutomationExercise - Homepage is visible successfully.
+[INFO ] 2024-07-18 08:07:02.318 [main] AutomationExercise - Scroll home page bottom.
+[INFO ] 2024-07-18 08:07:02.381 [main] AutomationExercise - SUBSCRIPTION is visible on the home page.
+[INFO ] 2024-07-18 08:07:02.508 [main] AutomationExercise - enter subscription email
+[INFO ] 2024-07-18 08:07:02.582 [main] AutomationExercise - Click on subscription button
+[INFO ] 2024-07-18 08:07:02.629 [main] AutomationExercise - 'You have been successfully subscribed!' is visible on the home page.
+[INFO ] 2024-07-18 08:08:51.644 [main] AutomationExercise - url opened
+[INFO ] 2024-07-18 08:08:51.683 [main] AutomationExercise - Homepage is visible successfully.
+[INFO ] 2024-07-18 08:08:51.693 [main] AutomationExercise - Scroll home page bottom.
+[INFO ] 2024-07-18 08:12:40.464 [main] AutomationExercise - url opened
+[INFO ] 2024-07-18 08:12:42.198 [main] AutomationExercise - Homepage is visible successfully.
+[INFO ] 2024-07-18 08:12:42.209 [main] AutomationExercise - Scroll home page bottom.
+[INFO ] 2024-07-18 08:12:42.264 [main] AutomationExercise - SUBSCRIPTION is visible on the home page.
+[INFO ] 2024-07-18 08:12:42.491 [main] AutomationExercise - enter subscription email
+[INFO ] 2024-07-18 08:12:42.573 [main] AutomationExercise - Click on subscription button
+[INFO ] 2024-07-18 08:12:42.596 [main] AutomationExercise - 'You have been successfully subscribed!' is visible on the home page.
+[INFO ] 2024-07-18 08:12:58.937 [main] AutomationExercise - url opened
+[INFO ] 2024-07-18 08:12:58.975 [main] AutomationExercise - Homepage is visible successfully.
+[INFO ] 2024-07-18 08:12:58.983 [main] AutomationExercise - Scroll home page bottom.
+[INFO ] 2024-07-18 08:12:59.062 [main] AutomationExercise - SUBSCRIPTION is visible on the home page.
+[INFO ] 2024-07-18 08:12:59.177 [main] AutomationExercise - enter subscription email
+[INFO ] 2024-07-18 08:12:59.231 [main] AutomationExercise - Click on subscription button
+[INFO ] 2024-07-18 08:12:59.253 [main] AutomationExercise - 'You have been successfully subscribed!' is visible on the home page.
+[INFO ] 2024-07-18 08:57:45.406 [main] AutomationExercise - url opened
+[INFO ] 2024-07-18 08:57:46.904 [main] AutomationExercise - Click on product button
+[INFO ] 2024-07-18 08:57:46.947 [main] AutomationExercise - All Product Page is visible Successfully
+[INFO ] 2024-07-18 09:01:45.268 [main] AutomationExercise - url opened
+[INFO ] 2024-07-18 09:01:47.227 [main] AutomationExercise - Click on product button
+[INFO ] 2024-07-18 09:01:47.243 [main] AutomationExercise - All Product Page is visible Successfully
+[INFO ] 2024-07-18 09:22:30.378 [main] AutomationExercise - url opened
+[INFO ] 2024-07-18 09:22:32.661 [main] AutomationExercise - Click on product button
+[INFO ] 2024-07-18 09:22:32.680 [main] AutomationExercise - All Product Page is visible Successfully
+[INFO ] 2024-07-18 09:23:16.659 [main] AutomationExercise - url opened
+[INFO ] 2024-07-18 09:23:18.416 [main] AutomationExercise - Click on product button
+[INFO ] 2024-07-18 09:23:18.432 [main] AutomationExercise - All Product Page is visible Successfully
+[INFO ] 2024-07-18 09:25:59.317 [main] AutomationExercise - url opened
+[INFO ] 2024-07-18 09:26:02.173 [main] AutomationExercise - Click on product button
+[INFO ] 2024-07-18 09:26:02.187 [main] AutomationExercise - All Product Page is visible Successfully
+[INFO ] 2024-07-18 09:30:28.560 [main] AutomationExercise - url opened
+[INFO ] 2024-07-18 09:30:30.234 [main] AutomationExercise - Click on product button
+[INFO ] 2024-07-18 09:30:30.258 [main] AutomationExercise - All Product Page is visible Successfully
+[INFO ] 2024-07-18 10:01:33.944 [main] AutomationExercise - url opened
+[INFO ] 2024-07-18 10:01:34.009 [main] AutomationExercise - CATEGORY is visible on the home page.
+[INFO ] 2024-07-18 10:01:34.073 [main] AutomationExercise - Click on Category
+[INFO ] 2024-07-18 10:01:35.245 [main] AutomationExercise - Click on Category
+[INFO ] 2024-07-18 10:05:50.767 [main] AutomationExercise - url opened
+[INFO ] 2024-07-18 10:05:50.827 [main] AutomationExercise - CATEGORY is visible on the home page.
+[INFO ] 2024-07-18 10:05:50.887 [main] AutomationExercise - Click on Category
+[INFO ] 2024-07-18 10:05:52.158 [main] AutomationExercise - Click on SubCategory
+[INFO ] 2024-07-18 10:08:41.239 [main] AutomationExercise - url opened
+[INFO ] 2024-07-18 10:08:41.307 [main] AutomationExercise - CATEGORY is visible on the home page.
+[INFO ] 2024-07-18 10:08:41.366 [main] AutomationExercise - Click on Category
+[INFO ] 2024-07-18 10:08:42.556 [main] AutomationExercise - Click on SubCategory
+[INFO ] 2024-07-18 10:08:42.563 [main] AutomationExercise - Category Page is visible Successfully
+[INFO ] 2024-07-18 10:15:53.242 [main] AutomationExercise - url opened
+[INFO ] 2024-07-18 10:15:53.301 [main] AutomationExercise - CATEGORY is visible on the home page.
+[INFO ] 2024-07-18 10:15:53.360 [main] AutomationExercise - Click on Category
+[INFO ] 2024-07-18 10:15:55.593 [main] AutomationExercise - Click on SubCategory
+[INFO ] 2024-07-18 10:15:55.602 [main] AutomationExercise - Category Page is visible Successfully
+[INFO ] 2024-07-18 11:13:34.874 [main] AutomationExercise - url opened
+[INFO ] 2024-07-18 11:13:34.940 [main] AutomationExercise - CATEGORY is visible on the home page.
+[INFO ] 2024-07-18 11:13:34.989 [main] AutomationExercise - Click on Category
+[INFO ] 2024-07-18 11:13:36.827 [main] AutomationExercise - Click on SubCategory
+[INFO ] 2024-07-18 11:13:36.837 [main] AutomationExercise - Category Page is visible Successfully
+[INFO ] 2024-07-18 11:13:36.874 [main] AutomationExercise - 'WOMEN -  TOPS PRODUCTS' is visible on the category page.
+[INFO ] 2024-07-18 11:14:05.957 [main] AutomationExercise - url opened
+[INFO ] 2024-07-18 11:14:06.015 [main] AutomationExercise - CATEGORY is visible on the home page.
+[INFO ] 2024-07-18 11:14:06.072 [main] AutomationExercise - Click on Category
+[INFO ] 2024-07-18 11:14:06.770 [main] AutomationExercise - Click on SubCategory
+[INFO ] 2024-07-18 11:14:06.796 [main] AutomationExercise - Category Page is visible Successfully
+[INFO ] 2024-07-18 11:15:28.908 [main] AutomationExercise - url opened
+[INFO ] 2024-07-18 11:15:28.977 [main] AutomationExercise - CATEGORY is visible on the home page.
+[INFO ] 2024-07-18 11:26:56.821 [main] AutomationExercise - url opened
+[INFO ] 2024-07-18 11:26:56.914 [main] AutomationExercise - BRANDS is visible on the home page.
+[INFO ] 2024-07-18 11:29:51.767 [main] AutomationExercise - url opened
+[INFO ] 2024-07-18 11:29:51.863 [main] AutomationExercise - BRANDS is visible on the home page.
+[INFO ] 2024-07-18 11:29:53.719 [main] AutomationExercise - Click on Brand
+[INFO ] 2024-07-18 11:29:53.725 [main] AutomationExercise - Brand Page is visible Successfully
+[INFO ] 2024-07-18 11:34:06.762 [main] AutomationExercise - url opened
+[INFO ] 2024-07-18 11:34:06.803 [main] AutomationExercise - Homepage is visible successfully.
+[INFO ] 2024-07-18 11:34:08.189 [main] AutomationExercise -  Click on 'Signup / Login' button
+[INFO ] 2024-07-18 11:34:08.199 [main] AutomationExercise - Login Page is visible Successfully
+[INFO ] 2024-07-18 11:34:08.227 [main] AutomationExercise - New User Signup!' is visible on the login page.
+[INFO ] 2024-07-18 11:34:08.357 [main] AutomationExercise - Enter name
+[INFO ] 2024-07-18 11:34:08.461 [main] AutomationExercise - Enter email address
+[INFO ] 2024-07-18 11:34:10.315 [main] AutomationExercise - Cick Sign up Button
+[INFO ] 2024-07-18 11:34:10.322 [main] AutomationExercise - Signup Page is visible Successfully
+[INFO ] 2024-07-18 11:34:10.345 [main] AutomationExercise - ENTER ACCOUNT INFORMATION!' is visible on the signup page.
+[INFO ] 2024-07-18 11:34:10.440 [main] AutomationExercise - Enter password
+[INFO ] 2024-07-18 11:34:12.694 [main] AutomationExercise -  Click on 'Signup / Login' button
+[INFO ] 2024-07-18 11:34:12.702 [main] AutomationExercise - Login Page is visible Successfully
+[INFO ] 2024-07-18 11:34:12.719 [main] AutomationExercise - New User Signup!' is visible on the login page.
+[INFO ] 2024-07-18 11:34:12.869 [main] AutomationExercise - Enter email
+[INFO ] 2024-07-18 11:34:12.929 [main] AutomationExercise - Enter password
+[INFO ] 2024-07-18 11:34:14.108 [main] AutomationExercise - Click ' Login' button
+[INFO ] 2024-07-18 11:34:25.724 [main] AutomationExercise -  Click on 'Signup / Login' button
+[INFO ] 2024-07-18 11:34:25.729 [main] AutomationExercise - Login Page is visible Successfully
+[INFO ] 2024-07-18 11:34:25.746 [main] AutomationExercise - New User Signup!' is visible on the login page.
+[INFO ] 2024-07-18 11:34:25.872 [main] AutomationExercise - Enter email
+[INFO ] 2024-07-18 11:34:25.927 [main] AutomationExercise - Enter password
+[INFO ] 2024-07-18 11:34:27.077 [main] AutomationExercise - Cick Login Button
+[INFO ] 2024-07-18 11:34:27.097 [main] AutomationExercise - Verify error 'Your email or password is incorrect!' is visible
+[INFO ] 2024-07-18 11:34:28.200 [main] AutomationExercise -  Click on 'Signup / Login' button
+[INFO ] 2024-07-18 11:34:28.205 [main] AutomationExercise - Login Page is visible Successfully
+[INFO ] 2024-07-18 11:34:28.223 [main] AutomationExercise - New User Signup!' is visible on the login page.
+[INFO ] 2024-07-18 11:34:28.343 [main] AutomationExercise - Enter email
+[INFO ] 2024-07-18 11:34:28.399 [main] AutomationExercise - Enter password
+[INFO ] 2024-07-18 11:34:29.960 [main] AutomationExercise - Cick Login Button
+[INFO ] 2024-07-18 11:34:31.229 [main] AutomationExercise - Cick Logout Button
+[INFO ] 2024-07-18 11:34:31.229 [main] AutomationExercise - Login Page is visible Successfully
+[INFO ] 2024-07-18 11:34:32.352 [main] AutomationExercise -  Click on 'Signup / Login' button
+[INFO ] 2024-07-18 11:34:32.359 [main] AutomationExercise - Login Page is visible Successfully
+[INFO ] 2024-07-18 11:34:32.377 [main] AutomationExercise - New User Signup!' is visible on the login page.
+[INFO ] 2024-07-18 11:34:32.471 [main] AutomationExercise - Enter name
+[INFO ] 2024-07-18 11:34:32.554 [main] AutomationExercise - Enter email address
+[INFO ] 2024-07-18 11:34:33.751 [main] AutomationExercise - Cick Sign up Button
+[INFO ] 2024-07-18 11:34:33.774 [main] AutomationExercise - Verify error 'Email Address already exist!' is visible
+[INFO ] 2024-07-18 11:34:36.949 [main] AutomationExercise - url opened
+[INFO ] 2024-07-18 11:34:37.012 [main] AutomationExercise - Homepage is visible successfully.
+[INFO ] 2024-07-18 11:34:37.076 [main] AutomationExercise - Scroll home page bottom.
+[INFO ] 2024-07-18 11:34:37.112 [main] AutomationExercise - SUBSCRIPTION is visible on the home page.
+[INFO ] 2024-07-18 11:34:37.431 [main] AutomationExercise - enter subscription email
+[INFO ] 2024-07-18 11:34:37.592 [main] AutomationExercise - Click on subscription button
+[INFO ] 2024-07-18 11:34:37.619 [main] AutomationExercise - 'You have been successfully subscribed!' is visible on the home page.
+[INFO ] 2024-07-18 11:34:40.576 [main] AutomationExercise - url opened
+[INFO ] 2024-07-18 11:34:40.652 [main] AutomationExercise - BRANDS is visible on the home page.
+[INFO ] 2024-07-18 11:34:42.148 [main] AutomationExercise - Click on Brand
+[INFO ] 2024-07-18 11:34:42.154 [main] AutomationExercise - Brand Page is visible Successfully
+[INFO ] 2024-07-18 11:34:45.830 [main] AutomationExercise - url opened
+[INFO ] 2024-07-18 11:34:45.858 [main] AutomationExercise - CATEGORY is visible on the home page.
+[INFO ] 2024-07-18 11:34:50.874 [main] AutomationExercise - url opened
+[INFO ] 2024-07-18 11:34:52.335 [main] AutomationExercise - Click on Contact Us Link
+[INFO ] 2024-07-18 11:34:52.373 [main] AutomationExercise - GET IN TOUCH' is visible on the account delete page.
+[INFO ] 2024-07-18 11:34:52.448 [main] AutomationExercise - Enter name
+[INFO ] 2024-07-18 11:34:52.616 [main] AutomationExercise - Enter email
+[INFO ] 2024-07-18 11:34:52.691 [main] AutomationExercise - Enter Subject
+[INFO ] 2024-07-18 11:34:52.760 [main] AutomationExercise - Enter Message
+[INFO ] 2024-07-18 11:34:57.479 [main] AutomationExercise - url opened
+[INFO ] 2024-07-18 11:34:58.721 [main] AutomationExercise - Click on product button
+[INFO ] 2024-07-18 11:34:58.738 [main] AutomationExercise - All Product Page is visible Successfully
+[INFO ] 2024-07-18 11:34:58.758 [main] AutomationExercise - Products list is visible.
+[INFO ] 2024-07-18 11:35:01.501 [main] AutomationExercise - Click on product button
+[INFO ] 2024-07-18 11:35:01.518 [main] AutomationExercise - All Product Page is visible Successfully
+[INFO ] 2024-07-18 11:35:01.624 [main] AutomationExercise - Enter search keyword
+[INFO ] 2024-07-18 11:35:02.879 [main] AutomationExercise - Click on Search button
+[INFO ] 2024-07-18 11:35:02.905 [main] AutomationExercise - Search Product testcase - Passed

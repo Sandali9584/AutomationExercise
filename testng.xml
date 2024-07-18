@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="com.automation.testcases.TC_LoginPageTest"/>
+       <class name="com.automation.testcases.TC_HomePageTest"/>
+      <class name="com.automation.testcases.TC_BrandPageTest"/>
+      <class name="com.automation.testcases.TC_CategoryPageTest"/>
+      <class name="com.automation.testcases.TC_ContactUsPageTest"/>
+     <class name="com.automation.testcases.TC_ProductPageTest"/>
+     <class name="com.automation.testcases.TC_ReviewPageTest"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
