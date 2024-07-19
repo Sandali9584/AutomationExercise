@@ -32,9 +32,14 @@ public class ContactUsPage {
 		@FindBy(xpath = "//textarea[@id='message']")
 		WebElement textarea;
 		
-		//input[@name='upload_file']
-		@FindBy(xpath = "//input[@type='submit' and @name='submit']")
-		WebElement submitbtn;
+		@FindBy(xpath = "//input[@name='upload_file']")
+		WebElement fileupload;
+		
+		@FindBy(xpath = "//body/div[@id='contact-page']/div[2]/div[1]/div[1]/div[3]/form[1]/div[6]/input[1]")
+		WebElement submitbutton;
+		
+		@FindBy(xpath = "//div[@class='status alert alert-success']")
+		WebElement successMessage;
 		
 		public String getgetintouchlabeltext() {
 			return getintouch.getText();	
@@ -57,6 +62,14 @@ public class ContactUsPage {
 		}
 		
 		public void clickOnSubmit() {
-			submitbtn.click();
+			submitbutton.click();
+		}
+		
+		public void chooseFile() {
+			fileupload.sendKeys("C:\\Users\\USER\\Downloads\\ManulTesting_Questions & Answers-150.pdf");;
+		}
+		
+		public String getSuccessMessage() {
+			return successMessage.getText(); 
 		}
 }

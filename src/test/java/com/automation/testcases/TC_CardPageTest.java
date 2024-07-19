@@ -20,7 +20,7 @@ public class TC_CardPageTest extends BaseTest{
 		
 		ProductPage productpage = new ProductPage(driver);
 		
-		String productpagettitle = productpage.getproductpagetitle();
+		String productpagettitle = productpage.getProductPageTitle();
 		if(productpagettitle.equals("Automation Exercise - All Products"))
 		{
 			logger.info("All Product Page is visible Successfully");
@@ -35,7 +35,7 @@ public class TC_CardPageTest extends BaseTest{
 			Assert.assertTrue(false);
 		}
 		driver.manage().timeouts().implicitlyWait(30, TimeUnit.SECONDS);
-		productpage.scrollfirstproduct();
+		
 		productpage.mouseoverfirstproduct();
 		Thread.sleep(2000);
 		//productpage.clickOnAddtocart();

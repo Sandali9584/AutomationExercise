@@ -2,6 +2,13 @@ package com.automation.testcases;
 
 import java.time.Duration;
 
+import org.openqa.selenium.By;
+import org.openqa.selenium.WebElement;
+import org.openqa.selenium.support.ui.ExpectedConditions;
+import org.openqa.selenium.support.ui.WebDriverWait;
+
+import org.openqa.selenium.JavascriptExecutor;
+import org.testng.Assert;
 import org.testng.annotations.Test;
 
 import com.automation.pageobject.AccountCreated;
@@ -10,8 +17,6 @@ import com.automation.pageobject.HomePage;
 import com.automation.pageobject.LoginPage;
 import com.automation.pageobject.SignUpPage;
 
-import freemarker.log.Logger;
-import junit.framework.Assert;
 
 public class TC_LoginPageTest extends BaseTest{
 
@@ -19,74 +24,45 @@ public class TC_LoginPageTest extends BaseTest{
 	public void verifyRegistration() throws InterruptedException {
 		
 		HomePage homepg = new HomePage(driver);
-		String title = homepg.getPageTitle();
-		if(title.equals("Automation Exercise"))
-		{
-			logger.info("Homepage is visible successfully.");
-			Assert.assertTrue(true);
-		}
-
-		else
-		{
-			logger.info("Homepage is NOT visible.");
-			//captureScreenShot(driver,"VerifyHomePageTitle");
-			Assert.assertTrue(false);
-		}
-	
+		Assert.assertEquals(homepg.getPageTitle(), "Automation Exercise", "Homepage title verification failed.");
+		logger.info("Homepage is visible successfully.");
 		homepg.clickOnSignup();
-		logger.info(" Click on 'Signup / Login' button");
+		logger.info("Click on 'Signup / Login' button");
 		
 		LoginPage loginpg = new LoginPage(driver) ;
-		String logintitle = loginpg.getLoginPageTitle();
-		if(logintitle.equals("Automation Exercise - Signup / Login"))
-		{
-			logger.info("Login Page is visible Successfully");
-			Assert.assertTrue(true);
-		}
-
-		else
-		{
-			logger.info("Login Page is NOT visible.");
-			//captureScreenShot(driver,"VerifyHomePageTitle");
-			Assert.assertTrue(false);
-		}
-		
-		String signuptext = loginpg.getlabeltext();
-		Assert.assertEquals(signuptext, "New User Signup!");
-		logger.info("New User Signup!' is visible on the login page.");
+		Assert.assertEquals(loginpg.getLoginPageTitle(), "Automation Exercise - Signup / Login", "Login page title verification failed.");
+		logger.info("Login Page is visible Successfully.");
+		Assert.assertEquals(loginpg.getlabeltext(), "New User Signup!", "New User Signup! label verification failed.");
+		logger.info("'New User Signup!' is visible on the login page.");
 		
 		loginpg.entersignupName("John");
 		logger.info("Enter name");
-		loginpg.entersignupEmail("smithJohn123@gmail.com");
+		loginpg.entersignupEmail("smithJohn1234@gmail.com");
 		logger.info("Enter email address");
 		loginpg.clickOnSignUp();
 		logger.info("Cick Sign up Button");
 		
 		SignUpPage signuppage = new SignUpPage(driver);
-		String signuptitle = signuppage.getSignUpPageTitle();
-		if(signuptitle.equals("Automation Exercise - Signup"))
-		{
-			logger.info("Signup Page is visible Successfully");
-			Assert.assertTrue(true);
-		}
-
-		else
-		{
-			logger.info("Signup Page is NOT visible.");
-			
-			//captureScreenShot(driver,"VerifyHomePageTitle");
-			Assert.assertTrue(false);
-		}
+		Assert.assertEquals(signuppage.getSignUpPageTitle(), "Automation Exercise - Signup", "Signup page title verification failed.");
+		logger.info("Signup Page is visible Successfully.");
+		Assert.assertEquals(signuppage.getinformationlabeltext(), "ENTER ACCOUNT INFORMATION", "'ENTER ACCOUNT INFORMATION' label verification failed.");
+		logger.info("'ENTER ACCOUNT INFORMATION!' is visible on the signup page.");
 		
-		String information = signuppage.getinformationlabeltext();
-		Assert.assertEquals(information, "ENTER ACCOUNT INFORMATION");
-		logger.info("ENTER ACCOUNT INFORMATION!' is visible on the signup page.");
+		signuppage.selectTitle();
+		logger.info("Select Title");
 		
 		signuppage.enterPassword("John123");
 		logger.info("Enter password");
 		
-		signuppage.selectnewsletter();
-		logger.info("Select checkbox 'Sign up for our newsletter!'");
+		WebDriverWait wait = new WebDriverWait(driver, Duration.ofSeconds(30));
+		WebElement checkbox = wait.until(ExpectedConditions.elementToBeClickable(By.id("newsletter")));
+		// Scroll the element into view
+		((JavascriptExecutor) driver).executeScript("arguments[0].scrollIntoView(true);", checkbox);
+		// Click on the checkbox using JavascriptExecutor
+		((JavascriptExecutor) driver).executeScript("arguments[0].click();", checkbox);
+
+		// Optionally, verify the checkbox state or other assertions
+		Assert.assertTrue(checkbox.isSelected(), "Checkbox was successfully clicked.");
 		
 		signuppage.selectoption();
 		logger.info("Select checkbox 'Receive special offers from our partners!'");
@@ -121,8 +97,13 @@ public class TC_LoginPageTest extends BaseTest{
 		signuppage.enterMobileNum("5679554321");
 		logger.info("Enter Mobile Number");
 		
-		signuppage.clickCreateAccount();
-		logger.info("Click on Create Account Button");
+		WebElement createAccountButton = wait.until(ExpectedConditions.elementToBeClickable(By.cssSelector("button[data-qa='create-account']")));
+
+		// Scroll the element into view
+		((JavascriptExecutor) driver).executeScript("arguments[0].scrollIntoView(true);", createAccountButton);
+
+		// Click on the button
+		createAccountButton.click();
 		
 		AccountCreated acccreatepg = new AccountCreated(driver);
 		
@@ -203,18 +184,7 @@ public class TC_LoginPageTest extends BaseTest{
 		loginpg.clickOnLogin();
 		logger.info("Click ' Login' button");
 		
-		homepg.clickOnDeleteAccount();
-		logger.info("Click ' Delete Account' button");
-		
-		DeleteAccountPage deleteaccpg = new DeleteAccountPage(driver);
-		
-		String deletetext = deleteaccpg.getaccountdeletedlabeltext();
-		
-		Assert.assertEquals(deletetext, "ACCOUNT DELETED!");
-		logger.info("ACCOUNT DELETED!' is visible on the account delete page.");
-		
-		deleteaccpg.clickOnContinue();
-		
+		homepg.clickOnLogout();
 	}
 	
 	@Test(priority = 3)

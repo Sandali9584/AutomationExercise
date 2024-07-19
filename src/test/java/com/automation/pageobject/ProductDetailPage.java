@@ -38,7 +38,7 @@ public class ProductDetailPage {
 				return driver.getTitle();
 			}
 			
-			public String getProductname() {
+			public String getProductName() {
 				return productname.getText();
 				
 			}

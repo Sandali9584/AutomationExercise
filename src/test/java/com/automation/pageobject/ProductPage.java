@@ -30,7 +30,7 @@ public class ProductPage {
 	@FindBy(xpath = "//div[@class='features_items']")
 	public List<WebElement> productList;
 	
-	@FindBy(linkText = "View Product")
+	@FindBy(xpath = "/html[1]/body[1]/section[2]/div[1]/div[1]/div[2]/div[1]/div[2]/div[1]/div[2]/ul[1]/li[1]/a[1]")
 	WebElement viewproduct;
 	
 	@FindBy(xpath = "//input[@id='search_product']")
@@ -51,7 +51,7 @@ public class ProductPage {
 	@FindBy(xpath="/html/body/section[2]/div/div/div[2]/div/div[2]/div/div[1]/div[2]/div/a")
 	WebElement firstproduct;
 	
-	public String getproductpagetitle() {
+	public String getProductPageTitle() {
 		return driver.getTitle();
 	}
 	
@@ -84,7 +84,12 @@ public class ProductPage {
 		 actions.moveToElement(first).build().perform();
 	        
 	}
-	public void scrollfirstproduct() {
-		js.executeScript("window.scrollTo(0,document.body.scrollHeight)");
-	}
+	
+	public WebElement getViewProductButton() {
+        return viewproduct;
+    }
+	
+	public WebElement getSearchResult() {
+        return searchResultProduct;
+    }
 }

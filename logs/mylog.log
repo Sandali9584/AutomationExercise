@@ -281,3 +281,1269 @@
 [INFO ] 2024-07-18 11:35:01.624 [main] AutomationExercise - Enter search keyword
 [INFO ] 2024-07-18 11:35:02.879 [main] AutomationExercise - Click on Search button
 [INFO ] 2024-07-18 11:35:02.905 [main] AutomationExercise - Search Product testcase - Passed
+[INFO ] 2024-07-18 18:39:51.699 [main] AutomationExercise - url opened
+[INFO ] 2024-07-18 18:39:53.278 [main] AutomationExercise - Click on product button
+[INFO ] 2024-07-18 18:39:53.302 [main] AutomationExercise - All Product Page is visible Successfully
+[INFO ] 2024-07-18 18:39:53.336 [main] AutomationExercise - Products list is visible.
+[INFO ] 2024-07-18 18:39:54.806 [main] AutomationExercise - Click on view product button
+[INFO ] 2024-07-18 18:39:54.811 [main] AutomationExercise - Product Details Page is visible Successfully
+[INFO ] 2024-07-18 18:39:54.837 [main] AutomationExercise - Product name is visible.
+[INFO ] 2024-07-18 18:39:54.857 [main] AutomationExercise - Category is visible.
+[INFO ] 2024-07-18 18:39:54.908 [main] AutomationExercise - Price is visible.
+[INFO ] 2024-07-18 18:39:54.927 [main] AutomationExercise - Availability is visible.
+[INFO ] 2024-07-18 18:39:54.962 [main] AutomationExercise - Condition is visible.
+[INFO ] 2024-07-18 18:39:54.980 [main] AutomationExercise - Brand is visible.
+[INFO ] 2024-07-18 18:39:57.230 [main] AutomationExercise - Click on product button
+[INFO ] 2024-07-18 18:39:57.237 [main] AutomationExercise - All Product Page is visible Successfully
+[INFO ] 2024-07-18 18:39:57.383 [main] AutomationExercise - Enter search keyword
+[INFO ] 2024-07-18 18:39:58.791 [main] AutomationExercise - Click on Search button
+[INFO ] 2024-07-18 18:39:58.813 [main] AutomationExercise - Search Product testcase - Passed
+[INFO ] 2024-07-18 18:44:11.858 [main] AutomationExercise - url opened
+[INFO ] 2024-07-18 18:44:13.220 [main] AutomationExercise - Click on product button
+[INFO ] 2024-07-18 18:44:13.230 [main] AutomationExercise - All Product Page is visible Successfully
+[INFO ] 2024-07-18 18:44:13.263 [main] AutomationExercise - Products list is visible.
+[INFO ] 2024-07-18 18:44:14.787 [main] AutomationExercise - Click on view product button
+[INFO ] 2024-07-18 18:44:14.793 [main] AutomationExercise - Product Details Page is visible Successfully
+[INFO ] 2024-07-18 18:44:14.817 [main] AutomationExercise - Product name is visible.
+[INFO ] 2024-07-18 18:44:14.841 [main] AutomationExercise - Category is visible.
+[INFO ] 2024-07-18 18:44:14.903 [main] AutomationExercise - Price is visible.
+[INFO ] 2024-07-18 18:44:14.924 [main] AutomationExercise - Availability is visible.
+[INFO ] 2024-07-18 18:44:14.943 [main] AutomationExercise - Condition is visible.
+[INFO ] 2024-07-18 18:44:14.962 [main] AutomationExercise - Brand is visible.
+[INFO ] 2024-07-18 19:00:44.469 [main] AutomationExercise - url opened
+[INFO ] 2024-07-18 19:00:46.232 [main] AutomationExercise - Click on product button
+[INFO ] 2024-07-18 19:02:57.361 [main] AutomationExercise - url opened
+[INFO ] 2024-07-18 19:02:58.739 [main] AutomationExercise - Click on product button
+[INFO ] 2024-07-18 19:04:01.342 [main] AutomationExercise - url opened
+[INFO ] 2024-07-18 19:04:02.879 [main] AutomationExercise - Click on product button
+[INFO ] 2024-07-18 19:04:02.893 [main] AutomationExercise - Product page is visible successfully.
+[INFO ] 2024-07-18 19:04:02.908 [main] AutomationExercise - Products list is visible.
+[INFO ] 2024-07-18 19:05:58.854 [main] AutomationExercise - url opened
+[INFO ] 2024-07-18 19:06:00.291 [main] AutomationExercise - Click on product button
+[INFO ] 2024-07-18 19:06:00.305 [main] AutomationExercise - Product page is visible successfully.
+[INFO ] 2024-07-18 19:06:00.322 [main] AutomationExercise - Products list is visible.
+[INFO ] 2024-07-18 19:07:40.699 [main] AutomationExercise - url opened
+[INFO ] 2024-07-18 19:07:42.151 [main] AutomationExercise - Click on product button
+[INFO ] 2024-07-18 19:07:42.168 [main] AutomationExercise - Product page is visible successfully.
+[INFO ] 2024-07-18 19:07:42.185 [main] AutomationExercise - Products list is visible.
+[INFO ] 2024-07-18 19:09:59.568 [main] AutomationExercise - url opened
+[INFO ] 2024-07-18 19:10:01.409 [main] AutomationExercise - Click on product button
+[INFO ] 2024-07-18 19:10:01.422 [main] AutomationExercise - Product page is visible successfully.
+[INFO ] 2024-07-18 19:10:01.439 [main] AutomationExercise - Products list is visible.
+[INFO ] 2024-07-18 19:10:03.022 [main] AutomationExercise - Product details page is visible successfully.
+[INFO ] 2024-07-18 19:10:03.171 [main] AutomationExercise - All product details are visible successfully.
+[INFO ] 2024-07-18 19:13:50.802 [main] AutomationExercise - url opened
+[INFO ] 2024-07-18 19:13:53.150 [main] AutomationExercise - Click on product button
+[INFO ] 2024-07-18 19:13:53.169 [main] AutomationExercise - Product page is visible successfully.
+[INFO ] 2024-07-18 19:13:53.192 [main] AutomationExercise - Products list is visible.
+[INFO ] 2024-07-18 19:13:55.094 [main] AutomationExercise - Product details page is visible successfully.
+[INFO ] 2024-07-18 19:13:55.285 [main] AutomationExercise - All product details are visible successfully.
+[INFO ] 2024-07-18 19:19:19.632 [main] AutomationExercise - url opened
+[INFO ] 2024-07-18 19:19:21.989 [main] AutomationExercise - Click on product button
+[INFO ] 2024-07-18 19:19:22.008 [main] AutomationExercise - Product page is visible successfully.
+[INFO ] 2024-07-18 19:19:22.029 [main] AutomationExercise - Products list is visible.
+[INFO ] 2024-07-18 19:19:23.946 [main] AutomationExercise - Product details page is visible successfully.
+[INFO ] 2024-07-18 19:19:24.152 [main] AutomationExercise - All product details are visible successfully.
+[INFO ] 2024-07-18 19:19:57.566 [main] AutomationExercise - url opened
+[INFO ] 2024-07-18 19:19:59.645 [main] AutomationExercise - Click on product button
+[INFO ] 2024-07-18 19:19:59.663 [main] AutomationExercise - Product page is visible successfully.
+[INFO ] 2024-07-18 19:19:59.684 [main] AutomationExercise - Products list is visible.
+[INFO ] 2024-07-18 19:20:01.946 [main] AutomationExercise - Product details page is visible successfully.
+[INFO ] 2024-07-18 19:20:02.150 [main] AutomationExercise - All product details are visible successfully.
+[INFO ] 2024-07-18 19:20:04.050 [main] AutomationExercise - Click on product button
+[INFO ] 2024-07-18 19:20:04.061 [main] AutomationExercise - Product page is visible successfully.
+[INFO ] 2024-07-18 19:20:04.215 [main] AutomationExercise - Enter search keyword
+[INFO ] 2024-07-18 19:20:05.732 [main] AutomationExercise - Click on Search button
+[INFO ] 2024-07-18 19:24:02.978 [main] AutomationExercise - url opened
+[INFO ] 2024-07-18 19:24:05.550 [main] AutomationExercise - Click on product button
+[INFO ] 2024-07-18 19:24:05.569 [main] AutomationExercise - Product page is visible successfully.
+[INFO ] 2024-07-18 19:24:05.587 [main] AutomationExercise - Products list is visible.
+[INFO ] 2024-07-18 19:24:07.075 [main] AutomationExercise - Product details page is visible successfully.
+[INFO ] 2024-07-18 19:24:07.227 [main] AutomationExercise - All product details are visible successfully.
+[INFO ] 2024-07-18 19:24:08.997 [main] AutomationExercise - Click on product button
+[INFO ] 2024-07-18 19:24:09.004 [main] AutomationExercise - Product page is visible successfully.
+[INFO ] 2024-07-18 19:24:09.126 [main] AutomationExercise - Enter search keyword
+[INFO ] 2024-07-18 19:24:10.733 [main] AutomationExercise - Click on Search button
+[INFO ] 2024-07-18 19:25:32.525 [main] AutomationExercise - url opened
+[INFO ] 2024-07-18 19:25:35.017 [main] AutomationExercise - Click on product button
+[INFO ] 2024-07-18 19:25:35.036 [main] AutomationExercise - Product page is visible successfully.
+[INFO ] 2024-07-18 19:25:35.057 [main] AutomationExercise - Products list is visible.
+[INFO ] 2024-07-18 19:25:36.971 [main] AutomationExercise - Product details page is visible successfully.
+[INFO ] 2024-07-18 19:25:37.146 [main] AutomationExercise - All product details are visible successfully.
+[INFO ] 2024-07-18 19:25:39.099 [main] AutomationExercise - Click on product button
+[INFO ] 2024-07-18 19:25:39.106 [main] AutomationExercise - Product page is visible successfully.
+[INFO ] 2024-07-18 19:25:39.235 [main] AutomationExercise - Enter search keyword
+[INFO ] 2024-07-18 19:25:40.623 [main] AutomationExercise - Click on Search button
+[INFO ] 2024-07-18 19:26:26.296 [main] AutomationExercise - url opened
+[INFO ] 2024-07-18 19:26:28.126 [main] AutomationExercise - Click on product button
+[INFO ] 2024-07-18 19:26:28.141 [main] AutomationExercise - Product page is visible successfully.
+[INFO ] 2024-07-18 19:26:28.156 [main] AutomationExercise - Products list is visible.
+[INFO ] 2024-07-18 19:26:30.393 [main] AutomationExercise - Product details page is visible successfully.
+[INFO ] 2024-07-18 19:26:30.571 [main] AutomationExercise - All product details are visible successfully.
+[INFO ] 2024-07-18 19:26:32.370 [main] AutomationExercise - Click on product button
+[INFO ] 2024-07-18 19:26:32.376 [main] AutomationExercise - Product page is visible successfully.
+[INFO ] 2024-07-18 19:26:32.523 [main] AutomationExercise - Enter search keyword
+[INFO ] 2024-07-18 19:26:34.121 [main] AutomationExercise - Click on Search button
+[INFO ] 2024-07-18 19:30:33.574 [main] AutomationExercise - url opened
+[INFO ] 2024-07-18 19:30:35.871 [main] AutomationExercise - Click on product button
+[INFO ] 2024-07-18 19:30:35.890 [main] AutomationExercise - Product page is visible successfully.
+[INFO ] 2024-07-18 19:30:35.916 [main] AutomationExercise - Products list is visible.
+[INFO ] 2024-07-18 19:30:37.781 [main] AutomationExercise - Product details page is visible successfully.
+[INFO ] 2024-07-18 19:30:37.971 [main] AutomationExercise - All product details are visible successfully.
+[INFO ] 2024-07-18 19:30:39.182 [main] AutomationExercise - Click on product button
+[INFO ] 2024-07-18 19:30:39.186 [main] AutomationExercise - Product page is visible successfully.
+[INFO ] 2024-07-18 19:30:39.304 [main] AutomationExercise - Enter search keyword
+[INFO ] 2024-07-18 19:30:40.656 [main] AutomationExercise - Click on Search button
+[INFO ] 2024-07-18 19:35:32.245 [main] AutomationExercise - url opened
+[INFO ] 2024-07-18 19:35:35.282 [main] AutomationExercise - Click on product button
+[INFO ] 2024-07-18 19:35:35.300 [main] AutomationExercise - Product page is visible successfully.
+[INFO ] 2024-07-18 19:35:35.318 [main] AutomationExercise - Products list is visible.
+[INFO ] 2024-07-18 19:35:37.154 [main] AutomationExercise - Product details page is visible successfully.
+[INFO ] 2024-07-18 19:35:37.327 [main] AutomationExercise - All product details are visible successfully.
+[INFO ] 2024-07-18 19:35:39.034 [main] AutomationExercise - Click on product button
+[INFO ] 2024-07-18 19:35:39.040 [main] AutomationExercise - Product page is visible successfully.
+[INFO ] 2024-07-18 19:35:39.237 [main] AutomationExercise - Enter search keyword
+[INFO ] 2024-07-18 19:35:40.912 [main] AutomationExercise - Click on Search button
+[INFO ] 2024-07-18 19:38:21.314 [main] AutomationExercise - url opened
+[INFO ] 2024-07-18 19:38:23.781 [main] AutomationExercise - Click on product button
+[INFO ] 2024-07-18 19:38:23.802 [main] AutomationExercise - Product page is visible successfully.
+[INFO ] 2024-07-18 19:38:23.825 [main] AutomationExercise - Products list is visible.
+[INFO ] 2024-07-18 19:38:25.726 [main] AutomationExercise - Product details page is visible successfully.
+[INFO ] 2024-07-18 19:38:25.909 [main] AutomationExercise - All product details are visible successfully.
+[INFO ] 2024-07-18 19:38:27.685 [main] AutomationExercise - Click on product button
+[INFO ] 2024-07-18 19:38:27.694 [main] AutomationExercise - Product page is visible successfully.
+[INFO ] 2024-07-18 19:38:27.933 [main] AutomationExercise - Enter search keyword
+[INFO ] 2024-07-18 19:38:29.547 [main] AutomationExercise - Click on Search button
+[INFO ] 2024-07-18 19:40:05.331 [main] AutomationExercise - url opened
+[INFO ] 2024-07-18 19:40:08.414 [main] AutomationExercise - Click on product button
+[INFO ] 2024-07-18 19:40:08.433 [main] AutomationExercise - Product page is visible successfully.
+[INFO ] 2024-07-18 19:40:08.454 [main] AutomationExercise - Products list is visible.
+[INFO ] 2024-07-18 19:40:10.551 [main] AutomationExercise - Product details page is visible successfully.
+[INFO ] 2024-07-18 19:40:10.737 [main] AutomationExercise - All product details are visible successfully.
+[INFO ] 2024-07-18 19:40:12.725 [main] AutomationExercise - Click on product button
+[INFO ] 2024-07-18 19:40:12.733 [main] AutomationExercise - Product page is visible successfully.
+[INFO ] 2024-07-18 19:40:12.943 [main] AutomationExercise - Enter search keyword
+[INFO ] 2024-07-18 19:40:14.408 [main] AutomationExercise - Click on Search button
+[INFO ] 2024-07-18 19:42:51.853 [main] AutomationExercise - url opened
+[INFO ] 2024-07-18 19:42:53.733 [main] AutomationExercise - Click on product button
+[INFO ] 2024-07-18 19:42:53.747 [main] AutomationExercise - Product page is visible successfully.
+[INFO ] 2024-07-18 19:42:53.768 [main] AutomationExercise - Products list is visible.
+[INFO ] 2024-07-18 19:42:56.124 [main] AutomationExercise - Click on product button
+[INFO ] 2024-07-18 19:42:56.135 [main] AutomationExercise - Product page is visible successfully.
+[INFO ] 2024-07-18 19:42:56.266 [main] AutomationExercise - Enter search keyword
+[INFO ] 2024-07-18 19:42:58.131 [main] AutomationExercise - Click on Search button
+[INFO ] 2024-07-18 19:42:58.163 [main] AutomationExercise - 'SEARCHED PRODUCTS' header to be visible
+[INFO ] 2024-07-18 19:42:58.199 [main] AutomationExercise - all the search products are visible
+[INFO ] 2024-07-18 19:42:58.298 [main] AutomationExercise - correct Product is displaying 
+[INFO ] 2024-07-18 19:43:56.529 [main] AutomationExercise - url opened
+[INFO ] 2024-07-18 19:43:58.039 [main] AutomationExercise - Click on product button
+[INFO ] 2024-07-18 19:43:58.057 [main] AutomationExercise - Product page is visible successfully.
+[INFO ] 2024-07-18 19:43:58.079 [main] AutomationExercise - Products list is visible.
+[INFO ] 2024-07-18 19:44:02.210 [main] AutomationExercise - Click on product button
+[INFO ] 2024-07-18 19:44:02.223 [main] AutomationExercise - Product page is visible successfully.
+[INFO ] 2024-07-18 19:44:02.496 [main] AutomationExercise - Enter search keyword
+[INFO ] 2024-07-18 19:44:04.209 [main] AutomationExercise - Click on Search button
+[INFO ] 2024-07-18 19:44:04.243 [main] AutomationExercise - 'SEARCHED PRODUCTS' header to be visible
+[INFO ] 2024-07-18 19:44:04.387 [main] AutomationExercise - all the search products are visible
+[INFO ] 2024-07-18 19:44:04.417 [main] AutomationExercise - correct Product is displaying 
+[INFO ] 2024-07-18 19:44:46.227 [main] AutomationExercise - url opened
+[INFO ] 2024-07-18 19:44:47.824 [main] AutomationExercise - Click on product button
+[INFO ] 2024-07-18 19:44:47.840 [main] AutomationExercise - Product page is visible successfully.
+[INFO ] 2024-07-18 19:44:47.857 [main] AutomationExercise - Products list is visible.
+[INFO ] 2024-07-18 19:44:50.009 [main] AutomationExercise - Product details page is visible successfully.
+[INFO ] 2024-07-18 19:44:50.199 [main] AutomationExercise - All product details are visible successfully.
+[INFO ] 2024-07-18 19:44:52.051 [main] AutomationExercise - Click on product button
+[INFO ] 2024-07-18 19:44:52.060 [main] AutomationExercise - Product page is visible successfully.
+[INFO ] 2024-07-18 19:44:52.193 [main] AutomationExercise - Enter search keyword
+[INFO ] 2024-07-18 19:44:53.815 [main] AutomationExercise - Click on Search button
+[INFO ] 2024-07-18 19:44:53.846 [main] AutomationExercise - 'SEARCHED PRODUCTS' header to be visible
+[INFO ] 2024-07-18 19:44:53.975 [main] AutomationExercise - all the search products are visible
+[INFO ] 2024-07-18 19:44:54.003 [main] AutomationExercise - correct Product is displaying 
+[INFO ] 2024-07-18 19:50:42.393 [main] AutomationExercise - url opened
+[INFO ] 2024-07-18 19:50:44.369 [main] AutomationExercise - Click on product button
+[INFO ] 2024-07-18 19:50:44.393 [main] AutomationExercise - Product page is visible successfully.
+[INFO ] 2024-07-18 19:50:44.434 [main] AutomationExercise - Products list is visible.
+[INFO ] 2024-07-18 19:50:46.094 [main] AutomationExercise - Product details page is visible successfully.
+[INFO ] 2024-07-18 19:50:46.309 [main] AutomationExercise - All product details are visible successfully.
+[INFO ] 2024-07-18 19:50:47.686 [main] AutomationExercise - Click on product button
+[INFO ] 2024-07-18 19:50:47.700 [main] AutomationExercise - Product page is visible successfully.
+[INFO ] 2024-07-18 19:50:47.826 [main] AutomationExercise - Enter search keyword
+[INFO ] 2024-07-18 19:50:49.010 [main] AutomationExercise - Click on Search button
+[INFO ] 2024-07-18 19:50:49.035 [main] AutomationExercise - 'SEARCHED PRODUCTS' header to be visible
+[INFO ] 2024-07-18 19:50:49.144 [main] AutomationExercise - all the search products are visible
+[INFO ] 2024-07-18 19:50:49.165 [main] AutomationExercise - correct Product is displaying 
+[INFO ] 2024-07-18 19:51:50.658 [main] AutomationExercise - url opened
+[INFO ] 2024-07-18 19:51:50.720 [main] AutomationExercise - Homepage is visible successfully.
+[INFO ] 2024-07-18 19:51:53.102 [main] AutomationExercise -  Click on 'Signup / Login' button
+[INFO ] 2024-07-18 19:51:53.110 [main] AutomationExercise - Login Page is visible Successfully
+[INFO ] 2024-07-18 19:51:53.143 [main] AutomationExercise - New User Signup!' is visible on the login page.
+[INFO ] 2024-07-18 19:51:53.383 [main] AutomationExercise - Enter name
+[INFO ] 2024-07-18 19:51:53.473 [main] AutomationExercise - Enter email address
+[INFO ] 2024-07-18 19:51:55.546 [main] AutomationExercise - Cick Sign up Button
+[INFO ] 2024-07-18 19:51:55.557 [main] AutomationExercise - Signup Page is visible Successfully
+[INFO ] 2024-07-18 19:51:55.583 [main] AutomationExercise - ENTER ACCOUNT INFORMATION!' is visible on the signup page.
+[INFO ] 2024-07-18 19:51:55.690 [main] AutomationExercise - Enter password
+[INFO ] 2024-07-18 19:51:58.389 [main] AutomationExercise -  Click on 'Signup / Login' button
+[INFO ] 2024-07-18 19:51:58.397 [main] AutomationExercise - Login Page is visible Successfully
+[INFO ] 2024-07-18 19:51:58.418 [main] AutomationExercise - New User Signup!' is visible on the login page.
+[INFO ] 2024-07-18 19:51:58.574 [main] AutomationExercise - Enter email
+[INFO ] 2024-07-18 19:51:58.668 [main] AutomationExercise - Enter password
+[INFO ] 2024-07-18 19:52:00.072 [main] AutomationExercise - Click ' Login' button
+[INFO ] 2024-07-18 19:52:11.806 [main] AutomationExercise -  Click on 'Signup / Login' button
+[INFO ] 2024-07-18 19:52:11.811 [main] AutomationExercise - Login Page is visible Successfully
+[INFO ] 2024-07-18 19:52:11.829 [main] AutomationExercise - New User Signup!' is visible on the login page.
+[INFO ] 2024-07-18 19:52:11.955 [main] AutomationExercise - Enter email
+[INFO ] 2024-07-18 19:52:12.009 [main] AutomationExercise - Enter password
+[INFO ] 2024-07-18 19:52:13.362 [main] AutomationExercise - Cick Login Button
+[INFO ] 2024-07-18 19:52:13.382 [main] AutomationExercise - Verify error 'Your email or password is incorrect!' is visible
+[INFO ] 2024-07-18 19:52:15.412 [main] AutomationExercise -  Click on 'Signup / Login' button
+[INFO ] 2024-07-18 19:52:15.422 [main] AutomationExercise - Login Page is visible Successfully
+[INFO ] 2024-07-18 19:52:15.440 [main] AutomationExercise - New User Signup!' is visible on the login page.
+[INFO ] 2024-07-18 19:52:15.565 [main] AutomationExercise - Enter email
+[INFO ] 2024-07-18 19:52:15.621 [main] AutomationExercise - Enter password
+[INFO ] 2024-07-18 19:52:17.290 [main] AutomationExercise - Cick Login Button
+[INFO ] 2024-07-18 19:52:19.020 [main] AutomationExercise - Cick Logout Button
+[INFO ] 2024-07-18 19:52:19.021 [main] AutomationExercise - Login Page is visible Successfully
+[INFO ] 2024-07-18 19:52:20.394 [main] AutomationExercise -  Click on 'Signup / Login' button
+[INFO ] 2024-07-18 19:52:20.403 [main] AutomationExercise - Login Page is visible Successfully
+[INFO ] 2024-07-18 19:52:20.422 [main] AutomationExercise - New User Signup!' is visible on the login page.
+[INFO ] 2024-07-18 19:52:20.510 [main] AutomationExercise - Enter name
+[INFO ] 2024-07-18 19:52:20.598 [main] AutomationExercise - Enter email address
+[INFO ] 2024-07-18 19:52:21.899 [main] AutomationExercise - Cick Sign up Button
+[INFO ] 2024-07-18 19:52:21.920 [main] AutomationExercise - Verify error 'Email Address already exist!' is visible
+[INFO ] 2024-07-18 19:52:25.436 [main] AutomationExercise - url opened
+[INFO ] 2024-07-18 19:52:25.445 [main] AutomationExercise - Homepage is visible successfully.
+[INFO ] 2024-07-18 19:52:25.453 [main] AutomationExercise - Scroll home page bottom.
+[INFO ] 2024-07-18 19:52:25.528 [main] AutomationExercise - SUBSCRIPTION is visible on the home page.
+[INFO ] 2024-07-18 19:52:25.630 [main] AutomationExercise - enter subscription email
+[INFO ] 2024-07-18 19:52:25.698 [main] AutomationExercise - Click on subscription button
+[INFO ] 2024-07-18 19:52:25.722 [main] AutomationExercise - 'You have been successfully subscribed!' is visible on the home page.
+[INFO ] 2024-07-18 19:52:28.655 [main] AutomationExercise - url opened
+[INFO ] 2024-07-18 19:52:28.727 [main] AutomationExercise - BRANDS is visible on the home page.
+[INFO ] 2024-07-18 19:52:30.288 [main] AutomationExercise - Click on Brand
+[INFO ] 2024-07-18 19:52:30.296 [main] AutomationExercise - Brand Page is visible Successfully
+[INFO ] 2024-07-18 19:52:33.664 [main] AutomationExercise - url opened
+[INFO ] 2024-07-18 19:52:33.738 [main] AutomationExercise - CATEGORY is visible on the home page.
+[INFO ] 2024-07-18 19:52:33.799 [main] AutomationExercise - Click on Category
+[INFO ] 2024-07-18 19:52:35.871 [main] AutomationExercise - Click on SubCategory
+[INFO ] 2024-07-18 19:52:35.877 [main] AutomationExercise - Category Page is visible Successfully
+[INFO ] 2024-07-18 19:52:35.900 [main] AutomationExercise - 'WOMEN -  TOPS PRODUCTS' is visible on the category page.
+[INFO ] 2024-07-18 19:52:39.241 [main] AutomationExercise - url opened
+[INFO ] 2024-07-18 19:52:42.208 [main] AutomationExercise - Click on Contact Us Link
+[INFO ] 2024-07-18 19:52:42.239 [main] AutomationExercise - GET IN TOUCH' is visible on the account delete page.
+[INFO ] 2024-07-18 19:52:42.359 [main] AutomationExercise - Enter name
+[INFO ] 2024-07-18 19:52:42.463 [main] AutomationExercise - Enter email
+[INFO ] 2024-07-18 19:52:42.533 [main] AutomationExercise - Enter Subject
+[INFO ] 2024-07-18 19:52:42.608 [main] AutomationExercise - Enter Message
+[INFO ] 2024-07-18 19:52:47.555 [main] AutomationExercise - url opened
+[INFO ] 2024-07-18 19:52:50.152 [main] AutomationExercise - Click on product button
+[INFO ] 2024-07-18 19:52:50.164 [main] AutomationExercise - Product page is visible successfully.
+[INFO ] 2024-07-18 19:52:50.183 [main] AutomationExercise - Products list is visible.
+[INFO ] 2024-07-18 19:52:52.217 [main] AutomationExercise - Product details page is visible successfully.
+[INFO ] 2024-07-18 19:52:52.407 [main] AutomationExercise - All product details are visible successfully.
+[INFO ] 2024-07-18 19:52:54.079 [main] AutomationExercise - Click on product button
+[INFO ] 2024-07-18 19:52:54.084 [main] AutomationExercise - Product page is visible successfully.
+[INFO ] 2024-07-18 19:52:54.365 [main] AutomationExercise - Enter search keyword
+[INFO ] 2024-07-18 19:52:56.111 [main] AutomationExercise - Click on Search button
+[INFO ] 2024-07-18 19:52:56.137 [main] AutomationExercise - 'SEARCHED PRODUCTS' header to be visible
+[INFO ] 2024-07-18 19:52:56.222 [main] AutomationExercise - all the search products are visible
+[INFO ] 2024-07-18 19:52:56.250 [main] AutomationExercise - correct Product is displaying 
+[INFO ] 2024-07-18 19:56:16.521 [main] AutomationExercise - url opened
+[INFO ] 2024-07-18 19:56:19.353 [main] AutomationExercise - Click on Contact Us Link
+[INFO ] 2024-07-18 19:56:19.387 [main] AutomationExercise - GET IN TOUCH' is visible on the account delete page.
+[INFO ] 2024-07-18 19:56:19.645 [main] AutomationExercise - Enter name
+[INFO ] 2024-07-18 19:56:19.736 [main] AutomationExercise - Enter email
+[INFO ] 2024-07-18 19:56:19.799 [main] AutomationExercise - Enter Subject
+[INFO ] 2024-07-18 19:56:19.867 [main] AutomationExercise - Enter Message
+[INFO ] 2024-07-18 20:03:01.714 [main] AutomationExercise - url opened
+[INFO ] 2024-07-18 20:03:04.048 [main] AutomationExercise - Click on Contact Us Link
+[INFO ] 2024-07-18 20:03:04.079 [main] AutomationExercise - GET IN TOUCH' is visible on the account delete page.
+[INFO ] 2024-07-18 20:03:04.206 [main] AutomationExercise - Enter name
+[INFO ] 2024-07-18 20:03:04.352 [main] AutomationExercise - Enter email
+[INFO ] 2024-07-18 20:03:04.428 [main] AutomationExercise - Enter Subject
+[INFO ] 2024-07-18 20:03:04.521 [main] AutomationExercise - Enter Message
+[INFO ] 2024-07-18 20:04:25.140 [main] AutomationExercise - url opened
+[INFO ] 2024-07-18 20:04:27.293 [main] AutomationExercise - Click on Contact Us Link
+[INFO ] 2024-07-18 20:04:27.340 [main] AutomationExercise - GET IN TOUCH' is visible on the account delete page.
+[INFO ] 2024-07-18 20:04:27.493 [main] AutomationExercise - Enter name
+[INFO ] 2024-07-18 20:04:27.624 [main] AutomationExercise - Enter email
+[INFO ] 2024-07-18 20:04:27.717 [main] AutomationExercise - Enter Subject
+[INFO ] 2024-07-18 20:04:27.810 [main] AutomationExercise - Enter Message
+[INFO ] 2024-07-18 20:12:24.387 [main] AutomationExercise - url opened
+[INFO ] 2024-07-18 20:12:27.008 [main] AutomationExercise - Click on Contact Us Link
+[INFO ] 2024-07-18 20:12:27.052 [main] AutomationExercise - GET IN TOUCH' is visible on the account delete page.
+[INFO ] 2024-07-18 20:12:27.206 [main] AutomationExercise - Enter name
+[INFO ] 2024-07-18 20:12:27.358 [main] AutomationExercise - Enter email
+[INFO ] 2024-07-18 20:12:27.438 [main] AutomationExercise - Enter Subject
+[INFO ] 2024-07-18 20:12:27.535 [main] AutomationExercise - Enter Message
+[INFO ] 2024-07-18 20:13:18.833 [main] AutomationExercise - url opened
+[INFO ] 2024-07-18 20:13:21.239 [main] AutomationExercise - Click on Contact Us Link
+[INFO ] 2024-07-18 20:13:21.274 [main] AutomationExercise - GET IN TOUCH' is visible on the account delete page.
+[INFO ] 2024-07-18 20:13:21.408 [main] AutomationExercise - Enter name
+[INFO ] 2024-07-18 20:13:21.556 [main] AutomationExercise - Enter email
+[INFO ] 2024-07-18 20:13:21.644 [main] AutomationExercise - Enter Subject
+[INFO ] 2024-07-18 20:13:21.738 [main] AutomationExercise - Enter Message
+[INFO ] 2024-07-18 20:14:03.458 [main] AutomationExercise - url opened
+[INFO ] 2024-07-18 20:14:03.503 [main] AutomationExercise - Homepage is visible successfully.
+[INFO ] 2024-07-18 20:14:04.633 [main] AutomationExercise -  Click on 'Signup / Login' button
+[INFO ] 2024-07-18 20:14:04.641 [main] AutomationExercise - Login Page is visible Successfully
+[INFO ] 2024-07-18 20:14:04.665 [main] AutomationExercise - New User Signup!' is visible on the login page.
+[INFO ] 2024-07-18 20:14:04.725 [main] AutomationExercise - Enter name
+[INFO ] 2024-07-18 20:14:04.818 [main] AutomationExercise - Enter email address
+[INFO ] 2024-07-18 20:14:06.443 [main] AutomationExercise - Cick Sign up Button
+[INFO ] 2024-07-18 20:14:06.458 [main] AutomationExercise - Signup Page is visible Successfully
+[INFO ] 2024-07-18 20:14:06.483 [main] AutomationExercise - ENTER ACCOUNT INFORMATION!' is visible on the signup page.
+[INFO ] 2024-07-18 20:14:06.637 [main] AutomationExercise - Enter password
+[INFO ] 2024-07-18 20:14:09.159 [main] AutomationExercise -  Click on 'Signup / Login' button
+[INFO ] 2024-07-18 20:14:09.164 [main] AutomationExercise - Login Page is visible Successfully
+[INFO ] 2024-07-18 20:14:09.190 [main] AutomationExercise - New User Signup!' is visible on the login page.
+[INFO ] 2024-07-18 20:14:09.426 [main] AutomationExercise - Enter email
+[INFO ] 2024-07-18 20:14:09.531 [main] AutomationExercise - Enter password
+[INFO ] 2024-07-18 20:14:11.051 [main] AutomationExercise - Click ' Login' button
+[INFO ] 2024-07-18 20:14:23.081 [main] AutomationExercise -  Click on 'Signup / Login' button
+[INFO ] 2024-07-18 20:14:23.106 [main] AutomationExercise - Login Page is visible Successfully
+[INFO ] 2024-07-18 20:14:23.172 [main] AutomationExercise - New User Signup!' is visible on the login page.
+[INFO ] 2024-07-18 20:14:23.280 [main] AutomationExercise - Enter email
+[INFO ] 2024-07-18 20:14:23.337 [main] AutomationExercise - Enter password
+[INFO ] 2024-07-18 20:14:24.481 [main] AutomationExercise - Cick Login Button
+[INFO ] 2024-07-18 20:14:24.501 [main] AutomationExercise - Verify error 'Your email or password is incorrect!' is visible
+[INFO ] 2024-07-18 20:14:25.623 [main] AutomationExercise -  Click on 'Signup / Login' button
+[INFO ] 2024-07-18 20:14:25.629 [main] AutomationExercise - Login Page is visible Successfully
+[INFO ] 2024-07-18 20:14:25.645 [main] AutomationExercise - New User Signup!' is visible on the login page.
+[INFO ] 2024-07-18 20:14:25.757 [main] AutomationExercise - Enter email
+[INFO ] 2024-07-18 20:14:25.812 [main] AutomationExercise - Enter password
+[INFO ] 2024-07-18 20:14:27.126 [main] AutomationExercise - Cick Login Button
+[INFO ] 2024-07-18 20:14:28.647 [main] AutomationExercise - Cick Logout Button
+[INFO ] 2024-07-18 20:14:28.647 [main] AutomationExercise - Login Page is visible Successfully
+[INFO ] 2024-07-18 20:14:29.891 [main] AutomationExercise -  Click on 'Signup / Login' button
+[INFO ] 2024-07-18 20:14:29.897 [main] AutomationExercise - Login Page is visible Successfully
+[INFO ] 2024-07-18 20:14:29.915 [main] AutomationExercise - New User Signup!' is visible on the login page.
+[INFO ] 2024-07-18 20:14:30.004 [main] AutomationExercise - Enter name
+[INFO ] 2024-07-18 20:14:30.094 [main] AutomationExercise - Enter email address
+[INFO ] 2024-07-18 20:14:31.674 [main] AutomationExercise - Cick Sign up Button
+[INFO ] 2024-07-18 20:14:31.694 [main] AutomationExercise - Verify error 'Email Address already exist!' is visible
+[INFO ] 2024-07-18 20:14:35.616 [main] AutomationExercise - url opened
+[INFO ] 2024-07-18 20:14:35.626 [main] AutomationExercise - Homepage is visible successfully.
+[INFO ] 2024-07-18 20:14:35.638 [main] AutomationExercise - Scroll home page bottom.
+[INFO ] 2024-07-18 20:14:35.710 [main] AutomationExercise - SUBSCRIPTION is visible on the home page.
+[INFO ] 2024-07-18 20:14:35.809 [main] AutomationExercise - enter subscription email
+[INFO ] 2024-07-18 20:14:35.875 [main] AutomationExercise - Click on subscription button
+[INFO ] 2024-07-18 20:14:35.902 [main] AutomationExercise - 'You have been successfully subscribed!' is visible on the home page.
+[INFO ] 2024-07-18 20:14:39.202 [main] AutomationExercise - url opened
+[INFO ] 2024-07-18 20:14:39.270 [main] AutomationExercise - BRANDS is visible on the home page.
+[INFO ] 2024-07-18 20:14:41.762 [main] AutomationExercise - Click on Brand
+[INFO ] 2024-07-18 20:14:41.772 [main] AutomationExercise - Brand Page is visible Successfully
+[INFO ] 2024-07-18 20:14:45.402 [main] AutomationExercise - url opened
+[INFO ] 2024-07-18 20:14:45.429 [main] AutomationExercise - CATEGORY is visible on the home page.
+[INFO ] 2024-07-18 20:14:45.479 [main] AutomationExercise - Click on Category
+[INFO ] 2024-07-18 20:14:47.149 [main] AutomationExercise - Click on SubCategory
+[INFO ] 2024-07-18 20:14:47.159 [main] AutomationExercise - Category Page is visible Successfully
+[INFO ] 2024-07-18 20:14:47.188 [main] AutomationExercise - 'WOMEN -  TOPS PRODUCTS' is visible on the category page.
+[INFO ] 2024-07-18 20:14:50.680 [main] AutomationExercise - url opened
+[INFO ] 2024-07-18 20:14:52.680 [main] AutomationExercise - Click on Contact Us Link
+[INFO ] 2024-07-18 20:14:52.709 [main] AutomationExercise - GET IN TOUCH' is visible on the account delete page.
+[INFO ] 2024-07-18 20:14:52.848 [main] AutomationExercise - Enter name
+[INFO ] 2024-07-18 20:14:52.983 [main] AutomationExercise - Enter email
+[INFO ] 2024-07-18 20:14:53.048 [main] AutomationExercise - Enter Subject
+[INFO ] 2024-07-18 20:14:53.123 [main] AutomationExercise - Enter Message
+[INFO ] 2024-07-18 20:14:57.532 [main] AutomationExercise - url opened
+[INFO ] 2024-07-18 20:15:00.344 [main] AutomationExercise - Click on product button
+[INFO ] 2024-07-18 20:15:00.363 [main] AutomationExercise - Product page is visible successfully.
+[INFO ] 2024-07-18 20:15:00.382 [main] AutomationExercise - Products list is visible.
+[INFO ] 2024-07-18 20:15:02.449 [main] AutomationExercise - Product details page is visible successfully.
+[INFO ] 2024-07-18 20:15:02.700 [main] AutomationExercise - All product details are visible successfully.
+[INFO ] 2024-07-18 20:15:04.614 [main] AutomationExercise - Click on product button
+[INFO ] 2024-07-18 20:15:04.619 [main] AutomationExercise - Product page is visible successfully.
+[INFO ] 2024-07-18 20:15:04.755 [main] AutomationExercise - Enter search keyword
+[INFO ] 2024-07-18 20:15:06.386 [main] AutomationExercise - Click on Search button
+[INFO ] 2024-07-18 20:15:06.409 [main] AutomationExercise - 'SEARCHED PRODUCTS' header to be visible
+[INFO ] 2024-07-18 20:15:06.532 [main] AutomationExercise - all the search products are visible
+[INFO ] 2024-07-18 20:15:06.561 [main] AutomationExercise - correct Product is displaying 
+[INFO ] 2024-07-19 10:48:40.623 [main] AutomationExercise - url opened
+[INFO ] 2024-07-19 10:48:42.864 [main] AutomationExercise - Click on Contact Us Link
+[INFO ] 2024-07-19 10:48:42.944 [main] AutomationExercise - GET IN TOUCH' is visible on the account delete page.
+[INFO ] 2024-07-19 10:48:43.067 [main] AutomationExercise - Enter name
+[INFO ] 2024-07-19 10:48:43.190 [main] AutomationExercise - Enter email
+[INFO ] 2024-07-19 10:48:43.269 [main] AutomationExercise - Enter Subject
+[INFO ] 2024-07-19 10:48:43.371 [main] AutomationExercise - Enter Message
+[INFO ] 2024-07-19 10:48:43.414 [main] AutomationExercise - Click on Submit
+[INFO ] 2024-07-19 10:51:00.007 [main] AutomationExercise - url opened
+[INFO ] 2024-07-19 10:51:01.892 [main] AutomationExercise - Click on Contact Us Link
+[INFO ] 2024-07-19 10:51:02.003 [main] AutomationExercise - GET IN TOUCH' is visible on the account delete page.
+[INFO ] 2024-07-19 10:51:02.091 [main] AutomationExercise - Enter name
+[INFO ] 2024-07-19 10:51:02.268 [main] AutomationExercise - Enter email
+[INFO ] 2024-07-19 10:51:02.344 [main] AutomationExercise - Enter Subject
+[INFO ] 2024-07-19 10:52:06.908 [main] AutomationExercise - url opened
+[INFO ] 2024-07-19 10:52:08.203 [main] AutomationExercise - Click on Contact Us Link
+[INFO ] 2024-07-19 10:52:08.247 [main] AutomationExercise - GET IN TOUCH' is visible on the account delete page.
+[INFO ] 2024-07-19 10:52:08.418 [main] AutomationExercise - Enter name
+[INFO ] 2024-07-19 10:52:08.555 [main] AutomationExercise - Enter email
+[INFO ] 2024-07-19 10:52:08.639 [main] AutomationExercise - Enter Subject
+[INFO ] 2024-07-19 10:52:08.721 [main] AutomationExercise - Enter Message
+[INFO ] 2024-07-19 10:52:08.762 [main] AutomationExercise - Upload File
+[INFO ] 2024-07-19 10:53:34.752 [main] AutomationExercise - url opened
+[INFO ] 2024-07-19 10:53:36.322 [main] AutomationExercise - Click on Contact Us Link
+[INFO ] 2024-07-19 10:53:36.371 [main] AutomationExercise - GET IN TOUCH' is visible on the account delete page.
+[INFO ] 2024-07-19 10:53:36.473 [main] AutomationExercise - Enter name
+[INFO ] 2024-07-19 10:53:36.641 [main] AutomationExercise - Enter email
+[INFO ] 2024-07-19 10:53:36.750 [main] AutomationExercise - Enter Subject
+[INFO ] 2024-07-19 10:53:36.849 [main] AutomationExercise - Enter Message
+[INFO ] 2024-07-19 10:53:36.907 [main] AutomationExercise - Upload File
+[INFO ] 2024-07-19 10:54:17.977 [main] AutomationExercise - url opened
+[INFO ] 2024-07-19 10:54:18.845 [main] AutomationExercise - Click on Contact Us Link
+[INFO ] 2024-07-19 10:54:18.938 [main] AutomationExercise - GET IN TOUCH' is visible on the account delete page.
+[INFO ] 2024-07-19 10:54:19.233 [main] AutomationExercise - Enter name
+[INFO ] 2024-07-19 10:54:19.455 [main] AutomationExercise - Enter email
+[INFO ] 2024-07-19 10:54:19.531 [main] AutomationExercise - Enter Subject
+[INFO ] 2024-07-19 10:54:19.615 [main] AutomationExercise - Enter Message
+[INFO ] 2024-07-19 10:54:19.657 [main] AutomationExercise - Upload File
+[INFO ] 2024-07-19 10:55:04.509 [main] AutomationExercise - url opened
+[INFO ] 2024-07-19 10:55:05.323 [main] AutomationExercise - Click on Contact Us Link
+[INFO ] 2024-07-19 10:55:05.397 [main] AutomationExercise - GET IN TOUCH' is visible on the account delete page.
+[INFO ] 2024-07-19 10:55:05.671 [main] AutomationExercise - Enter name
+[INFO ] 2024-07-19 10:55:05.866 [main] AutomationExercise - Enter email
+[INFO ] 2024-07-19 10:55:05.963 [main] AutomationExercise - Enter Subject
+[INFO ] 2024-07-19 10:55:06.051 [main] AutomationExercise - Enter Message
+[INFO ] 2024-07-19 10:55:06.094 [main] AutomationExercise - Upload File
+[INFO ] 2024-07-19 10:56:50.524 [main] AutomationExercise - url opened
+[INFO ] 2024-07-19 10:56:52.370 [main] AutomationExercise - Click on Contact Us Link
+[INFO ] 2024-07-19 10:56:52.412 [main] AutomationExercise - GET IN TOUCH' is visible on the account delete page.
+[INFO ] 2024-07-19 10:56:52.550 [main] AutomationExercise - Enter name
+[INFO ] 2024-07-19 10:56:52.681 [main] AutomationExercise - Enter email
+[INFO ] 2024-07-19 10:56:52.752 [main] AutomationExercise - Enter Subject
+[INFO ] 2024-07-19 10:56:52.837 [main] AutomationExercise - Enter Message
+[INFO ] 2024-07-19 10:56:52.887 [main] AutomationExercise - Upload File
+[INFO ] 2024-07-19 10:57:13.429 [main] AutomationExercise - url opened
+[INFO ] 2024-07-19 10:57:14.786 [main] AutomationExercise - Click on Contact Us Link
+[INFO ] 2024-07-19 10:57:14.825 [main] AutomationExercise - GET IN TOUCH' is visible on the account delete page.
+[INFO ] 2024-07-19 10:57:14.976 [main] AutomationExercise - Enter name
+[INFO ] 2024-07-19 10:57:15.091 [main] AutomationExercise - Enter email
+[INFO ] 2024-07-19 10:57:15.163 [main] AutomationExercise - Enter Subject
+[INFO ] 2024-07-19 10:57:15.244 [main] AutomationExercise - Enter Message
+[INFO ] 2024-07-19 10:57:15.280 [main] AutomationExercise - Upload File
+[INFO ] 2024-07-19 10:57:15.281 [main] AutomationExercise - Click on Submit
+[INFO ] 2024-07-19 10:57:49.997 [main] AutomationExercise - url opened
+[INFO ] 2024-07-19 10:57:51.422 [main] AutomationExercise - Click on Contact Us Link
+[INFO ] 2024-07-19 10:57:51.470 [main] AutomationExercise - GET IN TOUCH' is visible on the account delete page.
+[INFO ] 2024-07-19 10:57:51.563 [main] AutomationExercise - Upload File
+[INFO ] 2024-07-19 10:57:51.564 [main] AutomationExercise - Click on Submit
+[INFO ] 2024-07-19 11:01:16.822 [main] AutomationExercise - url opened
+[INFO ] 2024-07-19 11:01:18.661 [main] AutomationExercise - Click on Contact Us Link
+[INFO ] 2024-07-19 11:01:18.781 [main] AutomationExercise - GET IN TOUCH' is visible on the account delete page.
+[INFO ] 2024-07-19 11:01:18.892 [main] AutomationExercise - Enter name
+[INFO ] 2024-07-19 11:01:19.010 [main] AutomationExercise - Enter email
+[INFO ] 2024-07-19 11:01:19.087 [main] AutomationExercise - Enter Subject
+[INFO ] 2024-07-19 11:01:19.192 [main] AutomationExercise - Enter Message
+[INFO ] 2024-07-19 11:01:19.234 [main] AutomationExercise - File upload input is visible
+[INFO ] 2024-07-19 11:01:19.274 [main] AutomationExercise - Upload File
+[INFO ] 2024-07-19 11:01:19.274 [main] AutomationExercise - Click on Submit
+[INFO ] 2024-07-19 11:01:30.488 [main] AutomationExercise - url opened
+[INFO ] 2024-07-19 11:01:31.746 [main] AutomationExercise - Click on Contact Us Link
+[INFO ] 2024-07-19 11:01:31.782 [main] AutomationExercise - GET IN TOUCH' is visible on the account delete page.
+[INFO ] 2024-07-19 11:01:31.892 [main] AutomationExercise - Enter name
+[INFO ] 2024-07-19 11:01:32.001 [main] AutomationExercise - Enter email
+[INFO ] 2024-07-19 11:01:32.077 [main] AutomationExercise - Enter Subject
+[INFO ] 2024-07-19 11:01:32.155 [main] AutomationExercise - Enter Message
+[INFO ] 2024-07-19 11:01:32.195 [main] AutomationExercise - File upload input is visible
+[INFO ] 2024-07-19 11:01:32.241 [main] AutomationExercise - Upload File
+[INFO ] 2024-07-19 11:01:32.242 [main] AutomationExercise - Click on Submit
+[INFO ] 2024-07-19 11:02:09.775 [main] AutomationExercise - url opened
+[INFO ] 2024-07-19 11:02:11.099 [main] AutomationExercise - Click on Contact Us Link
+[INFO ] 2024-07-19 11:02:11.138 [main] AutomationExercise - GET IN TOUCH' is visible on the account delete page.
+[INFO ] 2024-07-19 11:02:11.278 [main] AutomationExercise - Enter name
+[INFO ] 2024-07-19 11:02:11.407 [main] AutomationExercise - Enter email
+[INFO ] 2024-07-19 11:02:11.491 [main] AutomationExercise - Enter Subject
+[INFO ] 2024-07-19 11:02:11.603 [main] AutomationExercise - Enter Message
+[INFO ] 2024-07-19 11:02:11.651 [main] AutomationExercise - File upload input is visible
+[INFO ] 2024-07-19 11:02:11.722 [main] AutomationExercise - Upload File
+[INFO ] 2024-07-19 11:02:11.722 [main] AutomationExercise - Click on Submit
+[INFO ] 2024-07-19 11:05:44.914 [main] AutomationExercise - url opened
+[INFO ] 2024-07-19 11:05:46.296 [main] AutomationExercise - Click on Contact Us Link
+[INFO ] 2024-07-19 11:05:46.340 [main] AutomationExercise - GET IN TOUCH' is visible on the account delete page.
+[INFO ] 2024-07-19 11:05:46.477 [main] AutomationExercise - Entered name
+[INFO ] 2024-07-19 11:05:46.617 [main] AutomationExercise - Entered email
+[INFO ] 2024-07-19 11:05:46.689 [main] AutomationExercise - Entered Subject
+[INFO ] 2024-07-19 11:05:46.770 [main] AutomationExercise - Entered Message
+[INFO ] 2024-07-19 11:05:46.807 [main] AutomationExercise - File upload input is visible
+[INFO ] 2024-07-19 11:05:46.861 [main] AutomationExercise - Uploaded File
+[INFO ] 2024-07-19 11:06:49.562 [main] AutomationExercise - url opened
+[INFO ] 2024-07-19 11:06:50.863 [main] AutomationExercise - Click on Contact Us Link
+[INFO ] 2024-07-19 11:06:50.907 [main] AutomationExercise - GET IN TOUCH' is visible on the account delete page.
+[INFO ] 2024-07-19 11:06:51.095 [main] AutomationExercise - Entered name
+[INFO ] 2024-07-19 11:06:51.189 [main] AutomationExercise - Entered email
+[INFO ] 2024-07-19 11:06:51.257 [main] AutomationExercise - Entered Subject
+[INFO ] 2024-07-19 11:06:51.338 [main] AutomationExercise - Entered Message
+[INFO ] 2024-07-19 11:06:51.374 [main] AutomationExercise - File upload input is visible
+[INFO ] 2024-07-19 11:06:51.415 [main] AutomationExercise - Uploaded File
+[INFO ] 2024-07-19 11:06:51.478 [main] AutomationExercise - Clicked on Submit button
+[INFO ] 2024-07-19 11:10:36.019 [main] AutomationExercise - url opened
+[INFO ] 2024-07-19 11:10:37.991 [main] AutomationExercise - Click on Contact Us Link
+[INFO ] 2024-07-19 11:10:38.070 [main] AutomationExercise - 'GET IN TOUCH' label is visible on the Contact Us page.
+[INFO ] 2024-07-19 11:10:38.200 [main] AutomationExercise - Entered name
+[INFO ] 2024-07-19 11:10:38.375 [main] AutomationExercise - Entered email
+[INFO ] 2024-07-19 11:10:38.446 [main] AutomationExercise - Entered Subject
+[INFO ] 2024-07-19 11:10:38.596 [main] AutomationExercise - Entered Message
+[INFO ] 2024-07-19 11:10:38.650 [main] AutomationExercise - File upload input is visible
+[INFO ] 2024-07-19 11:10:38.707 [main] AutomationExercise - Uploaded File
+[INFO ] 2024-07-19 11:12:36.220 [main] AutomationExercise - url opened
+[INFO ] 2024-07-19 11:12:37.030 [main] AutomationExercise - Click on Contact Us Link
+[INFO ] 2024-07-19 11:12:37.275 [main] AutomationExercise - 'GET IN TOUCH' label is visible on the Contact Us page.
+[INFO ] 2024-07-19 11:12:37.379 [main] AutomationExercise - Entered name
+[INFO ] 2024-07-19 11:12:37.599 [main] AutomationExercise - Entered email
+[INFO ] 2024-07-19 11:12:37.680 [main] AutomationExercise - Entered Subject
+[INFO ] 2024-07-19 11:12:37.772 [main] AutomationExercise - Entered Message
+[INFO ] 2024-07-19 11:12:37.816 [main] AutomationExercise - File upload input is visible
+[INFO ] 2024-07-19 11:12:37.891 [main] AutomationExercise - Uploaded File
+[INFO ] 2024-07-19 11:16:03.103 [main] AutomationExercise - url opened
+[INFO ] 2024-07-19 11:16:04.501 [main] AutomationExercise - Click on Contact Us Link
+[INFO ] 2024-07-19 11:16:04.554 [main] AutomationExercise - 'GET IN TOUCH' label is visible on the Contact Us page.
+[INFO ] 2024-07-19 11:16:04.682 [main] AutomationExercise - Entered name
+[INFO ] 2024-07-19 11:16:04.812 [main] AutomationExercise - Entered email
+[INFO ] 2024-07-19 11:16:04.891 [main] AutomationExercise - Entered Subject
+[INFO ] 2024-07-19 11:16:04.976 [main] AutomationExercise - Entered Message
+[INFO ] 2024-07-19 11:16:05.020 [main] AutomationExercise - File upload input is visible
+[INFO ] 2024-07-19 11:16:05.064 [main] AutomationExercise - Uploaded File
+[INFO ] 2024-07-19 11:18:26.130 [main] AutomationExercise - url opened
+[INFO ] 2024-07-19 11:18:27.488 [main] AutomationExercise - Click on Contact Us Link
+[INFO ] 2024-07-19 11:18:27.528 [main] AutomationExercise - 'GET IN TOUCH' label is visible on the Contact Us page.
+[INFO ] 2024-07-19 11:18:27.700 [main] AutomationExercise - Entered name
+[INFO ] 2024-07-19 11:18:27.797 [main] AutomationExercise - Entered email
+[INFO ] 2024-07-19 11:18:27.867 [main] AutomationExercise - Entered Subject
+[INFO ] 2024-07-19 11:18:27.971 [main] AutomationExercise - Entered Message
+[INFO ] 2024-07-19 11:18:28.033 [main] AutomationExercise - File upload input is visible
+[INFO ] 2024-07-19 11:18:28.091 [main] AutomationExercise - Uploaded File
+[INFO ] 2024-07-19 11:18:28.152 [main] AutomationExercise - Clicked on Submit button
+[INFO ] 2024-07-19 11:20:53.626 [main] AutomationExercise - url opened
+[INFO ] 2024-07-19 11:20:54.971 [main] AutomationExercise - Click on Contact Us Link
+[INFO ] 2024-07-19 11:20:55.022 [main] AutomationExercise - 'GET IN TOUCH' label is visible on the Contact Us page.
+[INFO ] 2024-07-19 11:20:55.166 [main] AutomationExercise - Entered name
+[INFO ] 2024-07-19 11:20:55.292 [main] AutomationExercise - Entered email
+[INFO ] 2024-07-19 11:20:55.380 [main] AutomationExercise - Entered Subject
+[INFO ] 2024-07-19 11:20:55.498 [main] AutomationExercise - Entered Message
+[INFO ] 2024-07-19 11:20:55.556 [main] AutomationExercise - File upload input is visible
+[INFO ] 2024-07-19 11:20:55.602 [main] AutomationExercise - Uploaded File
+[INFO ] 2024-07-19 11:23:53.428 [main] AutomationExercise - url opened
+[INFO ] 2024-07-19 11:23:54.755 [main] AutomationExercise - Click on Contact Us Link
+[INFO ] 2024-07-19 11:23:54.801 [main] AutomationExercise - 'GET IN TOUCH' label is visible on the Contact Us page.
+[INFO ] 2024-07-19 11:23:54.915 [main] AutomationExercise - Entered name
+[INFO ] 2024-07-19 11:23:55.079 [main] AutomationExercise - Entered email
+[INFO ] 2024-07-19 11:23:55.152 [main] AutomationExercise - Entered Subject
+[INFO ] 2024-07-19 11:23:55.241 [main] AutomationExercise - Entered Message
+[INFO ] 2024-07-19 11:23:55.287 [main] AutomationExercise - File upload input is visible
+[INFO ] 2024-07-19 11:23:55.334 [main] AutomationExercise - Uploaded File
+[INFO ] 2024-07-19 11:25:50.677 [main] AutomationExercise - url opened
+[INFO ] 2024-07-19 11:25:52.223 [main] AutomationExercise - Click on Contact Us Link
+[INFO ] 2024-07-19 11:25:52.265 [main] AutomationExercise - 'GET IN TOUCH' label is visible on the Contact Us page.
+[INFO ] 2024-07-19 11:25:52.418 [main] AutomationExercise - Entered name
+[INFO ] 2024-07-19 11:25:52.563 [main] AutomationExercise - Entered email
+[INFO ] 2024-07-19 11:25:52.643 [main] AutomationExercise - Entered Subject
+[INFO ] 2024-07-19 11:25:52.731 [main] AutomationExercise - Entered Message
+[INFO ] 2024-07-19 11:25:52.775 [main] AutomationExercise - File upload input is visible
+[INFO ] 2024-07-19 11:25:52.824 [main] AutomationExercise - Uploaded File
+[INFO ] 2024-07-19 11:35:33.693 [main] AutomationExercise - url opened
+[INFO ] 2024-07-19 11:35:35.794 [main] AutomationExercise - Click on Contact Us Link
+[INFO ] 2024-07-19 11:35:35.896 [main] AutomationExercise - 'GET IN TOUCH' label is visible on the Contact Us page.
+[INFO ] 2024-07-19 11:35:36.015 [main] AutomationExercise - Entered name
+[INFO ] 2024-07-19 11:35:36.136 [main] AutomationExercise - Entered email
+[INFO ] 2024-07-19 11:35:36.219 [main] AutomationExercise - Entered Subject
+[INFO ] 2024-07-19 11:35:36.316 [main] AutomationExercise - Entered Message
+[INFO ] 2024-07-19 11:35:36.368 [main] AutomationExercise - File upload input is visible
+[INFO ] 2024-07-19 11:35:36.433 [main] AutomationExercise - Uploaded File
+[INFO ] 2024-07-19 11:36:48.242 [main] AutomationExercise - url opened
+[INFO ] 2024-07-19 11:36:50.088 [main] AutomationExercise - Click on Contact Us Link
+[INFO ] 2024-07-19 11:36:50.137 [main] AutomationExercise - 'GET IN TOUCH' label is visible on the Contact Us page.
+[INFO ] 2024-07-19 11:36:50.261 [main] AutomationExercise - Entered name
+[INFO ] 2024-07-19 11:36:50.399 [main] AutomationExercise - Entered email
+[INFO ] 2024-07-19 11:36:50.481 [main] AutomationExercise - Entered Subject
+[INFO ] 2024-07-19 11:36:50.579 [main] AutomationExercise - Entered Message
+[INFO ] 2024-07-19 11:36:50.637 [main] AutomationExercise - File upload input is visible
+[INFO ] 2024-07-19 11:36:50.705 [main] AutomationExercise - Uploaded File
+[INFO ] 2024-07-19 11:37:55.935 [main] AutomationExercise - url opened
+[INFO ] 2024-07-19 11:37:56.754 [main] AutomationExercise - Click on Contact Us Link
+[INFO ] 2024-07-19 11:37:56.827 [main] AutomationExercise - 'GET IN TOUCH' label is visible on the Contact Us page.
+[INFO ] 2024-07-19 11:37:57.044 [main] AutomationExercise - Entered name
+[INFO ] 2024-07-19 11:37:57.261 [main] AutomationExercise - Entered email
+[INFO ] 2024-07-19 11:37:57.365 [main] AutomationExercise - Entered Subject
+[INFO ] 2024-07-19 11:37:57.459 [main] AutomationExercise - Entered Message
+[INFO ] 2024-07-19 11:37:57.508 [main] AutomationExercise - File upload input is visible
+[INFO ] 2024-07-19 11:37:57.551 [main] AutomationExercise - Uploaded File
+[INFO ] 2024-07-19 11:38:55.139 [main] AutomationExercise - url opened
+[INFO ] 2024-07-19 11:39:12.621 [main] AutomationExercise - url opened
+[INFO ] 2024-07-19 11:39:14.026 [main] AutomationExercise - Click on Contact Us Link
+[INFO ] 2024-07-19 11:39:14.076 [main] AutomationExercise - 'GET IN TOUCH' label is visible on the Contact Us page.
+[INFO ] 2024-07-19 11:40:21.085 [main] AutomationExercise - url opened
+[INFO ] 2024-07-19 11:40:22.345 [main] AutomationExercise - Click on Contact Us Link
+[INFO ] 2024-07-19 11:40:22.411 [main] AutomationExercise - 'GET IN TOUCH' label is visible on the Contact Us page.
+[INFO ] 2024-07-19 11:40:22.614 [main] AutomationExercise - Clicked on Submit button
+[INFO ] 2024-07-19 11:42:11.509 [main] AutomationExercise - url opened
+[INFO ] 2024-07-19 11:42:12.327 [main] AutomationExercise - Click on Contact Us Link
+[INFO ] 2024-07-19 11:42:12.445 [main] AutomationExercise - 'GET IN TOUCH' label is visible on the Contact Us page.
+[INFO ] 2024-07-19 11:42:12.777 [main] AutomationExercise - Entered name
+[INFO ] 2024-07-19 11:42:12.965 [main] AutomationExercise - Entered email
+[INFO ] 2024-07-19 11:42:13.048 [main] AutomationExercise - Entered Subject
+[INFO ] 2024-07-19 11:42:13.155 [main] AutomationExercise - Entered Message
+[INFO ] 2024-07-19 11:42:13.222 [main] AutomationExercise - File upload input is visible
+[INFO ] 2024-07-19 11:42:13.272 [main] AutomationExercise - Uploaded File
+[INFO ] 2024-07-19 11:43:31.020 [main] AutomationExercise - url opened
+[INFO ] 2024-07-19 11:43:32.569 [main] AutomationExercise - Click on Contact Us Link
+[INFO ] 2024-07-19 11:43:32.604 [main] AutomationExercise - 'GET IN TOUCH' label is visible on the Contact Us page.
+[INFO ] 2024-07-19 11:43:32.745 [main] AutomationExercise - Entered name
+[INFO ] 2024-07-19 11:43:32.870 [main] AutomationExercise - Entered email
+[INFO ] 2024-07-19 11:44:22.595 [main] AutomationExercise - url opened
+[INFO ] 2024-07-19 11:44:24.062 [main] AutomationExercise - Click on Contact Us Link
+[INFO ] 2024-07-19 11:44:24.105 [main] AutomationExercise - 'GET IN TOUCH' label is visible on the Contact Us page.
+[INFO ] 2024-07-19 11:44:24.425 [main] AutomationExercise - Clicked on Submit button
+[INFO ] 2024-07-19 11:45:20.162 [main] AutomationExercise - url opened
+[INFO ] 2024-07-19 11:45:21.578 [main] AutomationExercise - Click on Contact Us Link
+[INFO ] 2024-07-19 11:45:21.629 [main] AutomationExercise - 'GET IN TOUCH' label is visible on the Contact Us page.
+[INFO ] 2024-07-19 11:45:21.859 [main] AutomationExercise - Entered email
+[INFO ] 2024-07-19 11:45:21.920 [main] AutomationExercise - Clicked on Submit button
+[INFO ] 2024-07-19 11:45:52.130 [main] AutomationExercise - url opened
+[INFO ] 2024-07-19 11:45:54.010 [main] AutomationExercise - Click on Contact Us Link
+[INFO ] 2024-07-19 11:45:54.064 [main] AutomationExercise - 'GET IN TOUCH' label is visible on the Contact Us page.
+[INFO ] 2024-07-19 11:45:54.229 [main] AutomationExercise - Entered name
+[INFO ] 2024-07-19 11:45:54.359 [main] AutomationExercise - Entered email
+[INFO ] 2024-07-19 11:46:33.093 [main] AutomationExercise - url opened
+[INFO ] 2024-07-19 11:46:34.645 [main] AutomationExercise - Click on Contact Us Link
+[INFO ] 2024-07-19 11:46:34.689 [main] AutomationExercise - 'GET IN TOUCH' label is visible on the Contact Us page.
+[INFO ] 2024-07-19 11:46:34.867 [main] AutomationExercise - Entered email
+[INFO ] 2024-07-19 11:46:34.948 [main] AutomationExercise - Entered Subject
+[INFO ] 2024-07-19 11:46:35.037 [main] AutomationExercise - Entered Message
+[INFO ] 2024-07-19 11:46:35.095 [main] AutomationExercise - File upload input is visible
+[INFO ] 2024-07-19 11:46:35.185 [main] AutomationExercise - Uploaded File
+[INFO ] 2024-07-19 11:47:22.869 [main] AutomationExercise - url opened
+[INFO ] 2024-07-19 11:47:24.382 [main] AutomationExercise - Click on Contact Us Link
+[INFO ] 2024-07-19 11:47:24.427 [main] AutomationExercise - 'GET IN TOUCH' label is visible on the Contact Us page.
+[INFO ] 2024-07-19 11:47:24.625 [main] AutomationExercise - Entered email
+[INFO ] 2024-07-19 11:47:24.672 [main] AutomationExercise - File upload input is visible
+[INFO ] 2024-07-19 11:47:24.715 [main] AutomationExercise - Uploaded File
+[INFO ] 2024-07-19 11:52:25.970 [main] AutomationExercise - url opened
+[INFO ] 2024-07-19 11:52:27.448 [main] AutomationExercise - Click on Contact Us Link
+[INFO ] 2024-07-19 11:52:27.494 [main] AutomationExercise - 'GET IN TOUCH' label is visible on the Contact Us page.
+[INFO ] 2024-07-19 11:52:27.674 [main] AutomationExercise - Entered name
+[INFO ] 2024-07-19 11:52:27.795 [main] AutomationExercise - Entered email
+[INFO ] 2024-07-19 11:52:27.883 [main] AutomationExercise - Entered Subject
+[INFO ] 2024-07-19 11:52:27.978 [main] AutomationExercise - Entered Message
+[INFO ] 2024-07-19 11:52:28.019 [main] AutomationExercise - File upload input is visible
+[INFO ] 2024-07-19 11:52:28.094 [main] AutomationExercise - Uploaded File
+[INFO ] 2024-07-19 12:00:26.186 [main] AutomationExercise - url opened
+[INFO ] 2024-07-19 12:00:27.904 [main] AutomationExercise - Click on Contact Us Link
+[INFO ] 2024-07-19 12:00:27.950 [main] AutomationExercise - 'GET IN TOUCH' label is visible on the Contact Us page.
+[INFO ] 2024-07-19 12:00:28.081 [main] AutomationExercise - Entered name
+[INFO ] 2024-07-19 12:00:28.213 [main] AutomationExercise - Entered email
+[INFO ] 2024-07-19 12:00:28.292 [main] AutomationExercise - Entered Subject
+[INFO ] 2024-07-19 12:00:28.383 [main] AutomationExercise - Entered Message
+[INFO ] 2024-07-19 12:00:28.425 [main] AutomationExercise - File upload input is visible
+[INFO ] 2024-07-19 12:00:28.468 [main] AutomationExercise - Uploaded File
+[INFO ] 2024-07-19 12:01:03.111 [main] AutomationExercise - url opened
+[INFO ] 2024-07-19 12:01:03.176 [main] AutomationExercise - Homepage is visible successfully.
+[INFO ] 2024-07-19 12:01:05.481 [main] AutomationExercise -  Click on 'Signup / Login' button
+[INFO ] 2024-07-19 12:01:05.498 [main] AutomationExercise - Login Page is visible Successfully
+[INFO ] 2024-07-19 12:01:05.561 [main] AutomationExercise - New User Signup!' is visible on the login page.
+[INFO ] 2024-07-19 12:01:05.704 [main] AutomationExercise - Enter name
+[INFO ] 2024-07-19 12:01:05.831 [main] AutomationExercise - Enter email address
+[INFO ] 2024-07-19 12:01:08.108 [main] AutomationExercise - Cick Sign up Button
+[INFO ] 2024-07-19 12:01:08.130 [main] AutomationExercise - Signup Page is visible Successfully
+[INFO ] 2024-07-19 12:01:08.247 [main] AutomationExercise - ENTER ACCOUNT INFORMATION!' is visible on the signup page.
+[INFO ] 2024-07-19 12:01:08.358 [main] AutomationExercise - Enter password
+[INFO ] 2024-07-19 12:01:11.807 [main] AutomationExercise -  Click on 'Signup / Login' button
+[INFO ] 2024-07-19 12:01:11.821 [main] AutomationExercise - Login Page is visible Successfully
+[INFO ] 2024-07-19 12:01:11.871 [main] AutomationExercise - New User Signup!' is visible on the login page.
+[INFO ] 2024-07-19 12:01:12.058 [main] AutomationExercise - Enter email
+[INFO ] 2024-07-19 12:01:12.146 [main] AutomationExercise - Enter password
+[INFO ] 2024-07-19 12:01:14.700 [main] AutomationExercise - Click ' Login' button
+[INFO ] 2024-07-19 12:01:27.068 [main] AutomationExercise -  Click on 'Signup / Login' button
+[INFO ] 2024-07-19 12:01:27.078 [main] AutomationExercise - Login Page is visible Successfully
+[INFO ] 2024-07-19 12:01:27.102 [main] AutomationExercise - New User Signup!' is visible on the login page.
+[INFO ] 2024-07-19 12:01:27.264 [main] AutomationExercise - Enter email
+[INFO ] 2024-07-19 12:01:27.374 [main] AutomationExercise - Enter password
+[INFO ] 2024-07-19 12:01:29.715 [main] AutomationExercise - Cick Login Button
+[INFO ] 2024-07-19 12:01:29.841 [main] AutomationExercise - Verify error 'Your email or password is incorrect!' is visible
+[INFO ] 2024-07-19 12:01:31.608 [main] AutomationExercise -  Click on 'Signup / Login' button
+[INFO ] 2024-07-19 12:01:31.620 [main] AutomationExercise - Login Page is visible Successfully
+[INFO ] 2024-07-19 12:01:31.643 [main] AutomationExercise - New User Signup!' is visible on the login page.
+[INFO ] 2024-07-19 12:01:31.845 [main] AutomationExercise - Enter email
+[INFO ] 2024-07-19 12:01:31.962 [main] AutomationExercise - Enter password
+[INFO ] 2024-07-19 12:01:34.394 [main] AutomationExercise - Cick Login Button
+[INFO ] 2024-07-19 12:01:36.723 [main] AutomationExercise - Cick Logout Button
+[INFO ] 2024-07-19 12:01:36.723 [main] AutomationExercise - Login Page is visible Successfully
+[INFO ] 2024-07-19 12:01:38.727 [main] AutomationExercise -  Click on 'Signup / Login' button
+[INFO ] 2024-07-19 12:01:38.739 [main] AutomationExercise - Login Page is visible Successfully
+[INFO ] 2024-07-19 12:01:38.772 [main] AutomationExercise - New User Signup!' is visible on the login page.
+[INFO ] 2024-07-19 12:01:38.951 [main] AutomationExercise - Enter name
+[INFO ] 2024-07-19 12:01:39.135 [main] AutomationExercise - Enter email address
+[INFO ] 2024-07-19 12:01:42.171 [main] AutomationExercise - Cick Sign up Button
+[INFO ] 2024-07-19 12:01:42.208 [main] AutomationExercise - Verify error 'Email Address already exist!' is visible
+[INFO ] 2024-07-19 12:01:47.867 [main] AutomationExercise - url opened
+[INFO ] 2024-07-19 12:01:47.890 [main] AutomationExercise - Homepage is visible successfully.
+[INFO ] 2024-07-19 12:01:47.911 [main] AutomationExercise - Scroll home page bottom.
+[INFO ] 2024-07-19 12:01:48.075 [main] AutomationExercise - SUBSCRIPTION is visible on the home page.
+[INFO ] 2024-07-19 12:01:48.197 [main] AutomationExercise - enter subscription email
+[INFO ] 2024-07-19 12:01:48.273 [main] AutomationExercise - Click on subscription button
+[INFO ] 2024-07-19 12:01:48.302 [main] AutomationExercise - 'You have been successfully subscribed!' is visible on the home page.
+[INFO ] 2024-07-19 12:01:52.027 [main] AutomationExercise - url opened
+[INFO ] 2024-07-19 12:01:52.130 [main] AutomationExercise - BRANDS is visible on the home page.
+[INFO ] 2024-07-19 12:01:53.910 [main] AutomationExercise - Click on Brand
+[INFO ] 2024-07-19 12:01:53.928 [main] AutomationExercise - Brand Page is visible Successfully
+[INFO ] 2024-07-19 12:01:58.508 [main] AutomationExercise - url opened
+[INFO ] 2024-07-19 12:01:58.584 [main] AutomationExercise - CATEGORY is visible on the home page.
+[INFO ] 2024-07-19 12:02:07.201 [main] AutomationExercise - url opened
+[INFO ] 2024-07-19 12:02:09.003 [main] AutomationExercise - Click on Contact Us Link
+[INFO ] 2024-07-19 12:02:09.044 [main] AutomationExercise - 'GET IN TOUCH' label is visible on the Contact Us page.
+[INFO ] 2024-07-19 12:02:09.181 [main] AutomationExercise - Entered name
+[INFO ] 2024-07-19 12:02:09.291 [main] AutomationExercise - Entered email
+[INFO ] 2024-07-19 12:02:09.356 [main] AutomationExercise - Entered Subject
+[INFO ] 2024-07-19 12:02:09.427 [main] AutomationExercise - Entered Message
+[INFO ] 2024-07-19 12:02:09.453 [main] AutomationExercise - File upload input is visible
+[INFO ] 2024-07-19 12:02:09.483 [main] AutomationExercise - Uploaded File
+[INFO ] 2024-07-19 12:02:14.672 [main] AutomationExercise - url opened
+[INFO ] 2024-07-19 12:02:16.349 [main] AutomationExercise - Click on product button
+[INFO ] 2024-07-19 12:02:16.373 [main] AutomationExercise - Product page is visible successfully.
+[INFO ] 2024-07-19 12:02:16.402 [main] AutomationExercise - Products list is visible.
+[INFO ] 2024-07-19 12:02:18.266 [main] AutomationExercise - Product details page is visible successfully.
+[INFO ] 2024-07-19 12:02:18.485 [main] AutomationExercise - All product details are visible successfully.
+[INFO ] 2024-07-19 12:02:19.581 [main] AutomationExercise - Click on product button
+[INFO ] 2024-07-19 12:02:19.719 [main] AutomationExercise - Product page is visible successfully.
+[INFO ] 2024-07-19 12:02:20.552 [main] AutomationExercise - Enter search keyword
+[INFO ] 2024-07-19 12:02:22.107 [main] AutomationExercise - Click on Search button
+[INFO ] 2024-07-19 12:02:22.324 [main] AutomationExercise - 'SEARCHED PRODUCTS' header to be visible
+[INFO ] 2024-07-19 12:02:22.518 [main] AutomationExercise - all the search products are visible
+[INFO ] 2024-07-19 12:02:22.565 [main] AutomationExercise - correct Product is displaying 
+[INFO ] 2024-07-19 12:03:46.253 [main] AutomationExercise - url opened
+[INFO ] 2024-07-19 12:03:46.336 [main] AutomationExercise - CATEGORY is visible on the home page.
+[INFO ] 2024-07-19 12:04:46.906 [main] AutomationExercise - url opened
+[INFO ] 2024-07-19 12:04:47.033 [main] AutomationExercise - CATEGORY is visible on the home page.
+[INFO ] 2024-07-19 12:06:27.348 [main] AutomationExercise - url opened
+[INFO ] 2024-07-19 12:06:27.443 [main] AutomationExercise - CATEGORY is visible on the home page.
+[INFO ] 2024-07-19 12:09:59.039 [main] AutomationExercise - url opened
+[INFO ] 2024-07-19 12:09:59.188 [main] AutomationExercise - CATEGORY is visible on the home page.
+[INFO ] 2024-07-19 12:09:59.491 [main] AutomationExercise - Click on Category
+[INFO ] 2024-07-19 12:10:01.447 [main] AutomationExercise - Click on SubCategory
+[INFO ] 2024-07-19 12:10:01.466 [main] AutomationExercise - Category Page is visible Successfully
+[INFO ] 2024-07-19 12:10:01.562 [main] AutomationExercise - 'WOMEN -  TOPS PRODUCTS' is visible on the category page.
+[INFO ] 2024-07-19 12:13:22.621 [main] AutomationExercise - url opened
+[INFO ] 2024-07-19 12:13:22.671 [main] AutomationExercise - Homepage is visible successfully.
+[INFO ] 2024-07-19 12:13:23.563 [main] AutomationExercise -  Click on 'Signup / Login' button
+[INFO ] 2024-07-19 12:13:23.589 [main] AutomationExercise - Login Page is visible Successfully
+[INFO ] 2024-07-19 12:13:23.616 [main] AutomationExercise - New User Signup!' is visible on the login page.
+[INFO ] 2024-07-19 12:13:23.853 [main] AutomationExercise - Enter name
+[INFO ] 2024-07-19 12:13:24.010 [main] AutomationExercise - Enter email address
+[INFO ] 2024-07-19 12:13:25.827 [main] AutomationExercise - Cick Sign up Button
+[INFO ] 2024-07-19 12:13:25.846 [main] AutomationExercise - Signup Page is visible Successfully
+[INFO ] 2024-07-19 12:13:25.908 [main] AutomationExercise - ENTER ACCOUNT INFORMATION!' is visible on the signup page.
+[INFO ] 2024-07-19 12:13:26.060 [main] AutomationExercise - Select Title
+[INFO ] 2024-07-19 12:13:26.150 [main] AutomationExercise - Enter password
+[INFO ] 2024-07-19 12:13:28.877 [main] AutomationExercise -  Click on 'Signup / Login' button
+[INFO ] 2024-07-19 12:13:28.889 [main] AutomationExercise - Login Page is visible Successfully
+[INFO ] 2024-07-19 12:13:28.919 [main] AutomationExercise - New User Signup!' is visible on the login page.
+[INFO ] 2024-07-19 12:13:29.103 [main] AutomationExercise - Enter email
+[INFO ] 2024-07-19 12:13:29.170 [main] AutomationExercise - Enter password
+[INFO ] 2024-07-19 12:13:30.553 [main] AutomationExercise - Click ' Login' button
+[INFO ] 2024-07-19 12:13:42.625 [main] AutomationExercise -  Click on 'Signup / Login' button
+[INFO ] 2024-07-19 12:13:42.653 [main] AutomationExercise - Login Page is visible Successfully
+[INFO ] 2024-07-19 12:13:42.802 [main] AutomationExercise - New User Signup!' is visible on the login page.
+[INFO ] 2024-07-19 12:13:42.925 [main] AutomationExercise - Enter email
+[INFO ] 2024-07-19 12:13:42.987 [main] AutomationExercise - Enter password
+[INFO ] 2024-07-19 12:13:44.263 [main] AutomationExercise - Cick Login Button
+[INFO ] 2024-07-19 12:13:44.381 [main] AutomationExercise - Verify error 'Your email or password is incorrect!' is visible
+[INFO ] 2024-07-19 12:13:46.110 [main] AutomationExercise -  Click on 'Signup / Login' button
+[INFO ] 2024-07-19 12:13:46.136 [main] AutomationExercise - Login Page is visible Successfully
+[INFO ] 2024-07-19 12:13:46.286 [main] AutomationExercise - New User Signup!' is visible on the login page.
+[INFO ] 2024-07-19 12:13:46.484 [main] AutomationExercise - Enter email
+[INFO ] 2024-07-19 12:13:46.545 [main] AutomationExercise - Enter password
+[INFO ] 2024-07-19 12:13:48.360 [main] AutomationExercise - Cick Login Button
+[INFO ] 2024-07-19 12:13:50.284 [main] AutomationExercise - Cick Logout Button
+[INFO ] 2024-07-19 12:13:50.284 [main] AutomationExercise - Login Page is visible Successfully
+[INFO ] 2024-07-19 12:13:51.737 [main] AutomationExercise -  Click on 'Signup / Login' button
+[INFO ] 2024-07-19 12:13:51.761 [main] AutomationExercise - Login Page is visible Successfully
+[INFO ] 2024-07-19 12:13:51.936 [main] AutomationExercise - New User Signup!' is visible on the login page.
+[INFO ] 2024-07-19 12:13:52.053 [main] AutomationExercise - Enter name
+[INFO ] 2024-07-19 12:13:52.197 [main] AutomationExercise - Enter email address
+[INFO ] 2024-07-19 12:13:53.667 [main] AutomationExercise - Cick Sign up Button
+[INFO ] 2024-07-19 12:13:53.823 [main] AutomationExercise - Verify error 'Email Address already exist!' is visible
+[INFO ] 2024-07-19 13:14:11.417 [main] AutomationExercise - url opened
+[INFO ] 2024-07-19 13:14:11.459 [main] AutomationExercise - Homepage is visible successfully.
+[INFO ] 2024-07-19 13:14:12.886 [main] AutomationExercise -  Click on 'Signup / Login' button
+[INFO ] 2024-07-19 13:14:12.901 [main] AutomationExercise - Login Page is visible Successfully
+[INFO ] 2024-07-19 13:14:12.951 [main] AutomationExercise - New User Signup!' is visible on the login page.
+[INFO ] 2024-07-19 13:14:13.087 [main] AutomationExercise - Enter name
+[INFO ] 2024-07-19 13:14:13.207 [main] AutomationExercise - Enter email address
+[INFO ] 2024-07-19 13:14:15.590 [main] AutomationExercise - Cick Sign up Button
+[INFO ] 2024-07-19 13:14:15.606 [main] AutomationExercise - Signup Page is visible Successfully
+[INFO ] 2024-07-19 13:14:15.663 [main] AutomationExercise - ENTER ACCOUNT INFORMATION!' is visible on the signup page.
+[INFO ] 2024-07-19 13:14:15.851 [main] AutomationExercise - Select Title
+[INFO ] 2024-07-19 13:14:15.973 [main] AutomationExercise - Enter password
+[INFO ] 2024-07-19 13:14:16.204 [main] AutomationExercise - Select checkbox 'Receive special offers from our partners!'
+[INFO ] 2024-07-19 13:14:16.282 [main] AutomationExercise - Enter First Name
+[INFO ] 2024-07-19 13:14:16.364 [main] AutomationExercise - Enter Last name
+[INFO ] 2024-07-19 13:14:16.443 [main] AutomationExercise - Enter Company
+[INFO ] 2024-07-19 13:14:16.528 [main] AutomationExercise - Enter Address
+[INFO ] 2024-07-19 13:14:16.664 [main] AutomationExercise - Enter Address2
+[INFO ] 2024-07-19 13:14:16.873 [main] AutomationExercise - Select Country
+[INFO ] 2024-07-19 13:14:16.957 [main] AutomationExercise - Enter State
+[INFO ] 2024-07-19 13:14:17.037 [main] AutomationExercise - Enter City
+[INFO ] 2024-07-19 13:14:17.114 [main] AutomationExercise - Enter ZipCode
+[INFO ] 2024-07-19 13:14:17.198 [main] AutomationExercise - Enter Mobile Number
+[INFO ] 2024-07-19 13:14:18.968 [main] AutomationExercise - Click on Create Account Button
+[INFO ] 2024-07-19 13:14:18.979 [main] AutomationExercise - Account_created Page is visible Successfully
+[INFO ] 2024-07-19 13:14:19.023 [main] AutomationExercise - ACCOUNT CREATED!' is visible on the account create page.
+[INFO ] 2024-07-19 13:14:20.699 [main] AutomationExercise - Click 'Continue' button
+[INFO ] 2024-07-19 13:14:22.344 [main] AutomationExercise - Click ' Delete Account' button
+[INFO ] 2024-07-19 13:14:22.375 [main] AutomationExercise - ACCOUNT DELETED!' is visible on the account delete page.
+[INFO ] 2024-07-19 13:14:23.884 [main] AutomationExercise - Click 'Continue' button
+[INFO ] 2024-07-19 13:14:25.607 [main] AutomationExercise -  Click on 'Signup / Login' button
+[INFO ] 2024-07-19 13:14:25.632 [main] AutomationExercise - Login Page is visible Successfully
+[INFO ] 2024-07-19 13:14:25.782 [main] AutomationExercise - New User Signup!' is visible on the login page.
+[INFO ] 2024-07-19 13:14:25.953 [main] AutomationExercise - Enter email
+[INFO ] 2024-07-19 13:14:26.021 [main] AutomationExercise - Enter password
+[INFO ] 2024-07-19 13:14:27.472 [main] AutomationExercise - Click ' Login' button
+[INFO ] 2024-07-19 13:14:39.545 [main] AutomationExercise -  Click on 'Signup / Login' button
+[INFO ] 2024-07-19 13:14:39.554 [main] AutomationExercise - Login Page is visible Successfully
+[INFO ] 2024-07-19 13:14:39.586 [main] AutomationExercise - New User Signup!' is visible on the login page.
+[INFO ] 2024-07-19 13:14:39.783 [main] AutomationExercise - Enter email
+[INFO ] 2024-07-19 13:14:39.854 [main] AutomationExercise - Enter password
+[INFO ] 2024-07-19 13:14:41.610 [main] AutomationExercise - Cick Login Button
+[INFO ] 2024-07-19 13:14:41.637 [main] AutomationExercise - Verify error 'Your email or password is incorrect!' is visible
+[INFO ] 2024-07-19 13:14:43.338 [main] AutomationExercise -  Click on 'Signup / Login' button
+[INFO ] 2024-07-19 13:14:43.365 [main] AutomationExercise - Login Page is visible Successfully
+[INFO ] 2024-07-19 13:14:43.536 [main] AutomationExercise - New User Signup!' is visible on the login page.
+[INFO ] 2024-07-19 13:14:43.721 [main] AutomationExercise - Enter email
+[INFO ] 2024-07-19 13:14:43.799 [main] AutomationExercise - Enter password
+[INFO ] 2024-07-19 13:14:45.953 [main] AutomationExercise - Cick Login Button
+[INFO ] 2024-07-19 13:14:47.673 [main] AutomationExercise - Cick Logout Button
+[INFO ] 2024-07-19 13:14:47.673 [main] AutomationExercise - Login Page is visible Successfully
+[INFO ] 2024-07-19 13:14:49.374 [main] AutomationExercise -  Click on 'Signup / Login' button
+[INFO ] 2024-07-19 13:14:49.387 [main] AutomationExercise - Login Page is visible Successfully
+[INFO ] 2024-07-19 13:14:49.417 [main] AutomationExercise - New User Signup!' is visible on the login page.
+[INFO ] 2024-07-19 13:14:49.551 [main] AutomationExercise - Enter name
+[INFO ] 2024-07-19 13:14:49.664 [main] AutomationExercise - Enter email address
+[INFO ] 2024-07-19 13:14:51.340 [main] AutomationExercise - Cick Sign up Button
+[INFO ] 2024-07-19 13:14:51.368 [main] AutomationExercise - Verify error 'Email Address already exist!' is visible
+[INFO ] 2024-07-19 13:18:08.148 [main] AutomationExercise - url opened
+[INFO ] 2024-07-19 13:18:08.220 [main] AutomationExercise - Homepage is visible successfully.
+[INFO ] 2024-07-19 13:18:09.741 [main] AutomationExercise -  Click on 'Signup / Login' button
+[INFO ] 2024-07-19 13:18:09.748 [main] AutomationExercise - Login Page is visible Successfully
+[INFO ] 2024-07-19 13:18:09.782 [main] AutomationExercise - New User Signup!' is visible on the login page.
+[INFO ] 2024-07-19 13:18:09.912 [main] AutomationExercise - Enter name
+[INFO ] 2024-07-19 13:18:10.040 [main] AutomationExercise - Enter email address
+[INFO ] 2024-07-19 13:18:11.913 [main] AutomationExercise - Cick Sign up Button
+[INFO ] 2024-07-19 13:18:11.928 [main] AutomationExercise - Signup Page is NOT visible.
+[INFO ] 2024-07-19 13:18:13.463 [main] AutomationExercise -  Click on 'Signup / Login' button
+[INFO ] 2024-07-19 13:18:13.474 [main] AutomationExercise - Login Page is visible Successfully
+[INFO ] 2024-07-19 13:18:13.499 [main] AutomationExercise - New User Signup!' is visible on the login page.
+[INFO ] 2024-07-19 13:18:13.630 [main] AutomationExercise - Enter email
+[INFO ] 2024-07-19 13:18:13.706 [main] AutomationExercise - Enter password
+[INFO ] 2024-07-19 13:18:15.416 [main] AutomationExercise - Click ' Login' button
+[INFO ] 2024-07-19 13:18:18.774 [main] AutomationExercise -  Click on 'Signup / Login' button
+[INFO ] 2024-07-19 13:18:18.785 [main] AutomationExercise - Login Page is visible Successfully
+[INFO ] 2024-07-19 13:18:18.815 [main] AutomationExercise - New User Signup!' is visible on the login page.
+[INFO ] 2024-07-19 13:18:19.103 [main] AutomationExercise - Enter email
+[INFO ] 2024-07-19 13:18:19.186 [main] AutomationExercise - Enter password
+[INFO ] 2024-07-19 13:18:20.833 [main] AutomationExercise - Cick Login Button
+[INFO ] 2024-07-19 13:18:20.862 [main] AutomationExercise - Verify error 'Your email or password is incorrect!' is visible
+[INFO ] 2024-07-19 13:18:22.588 [main] AutomationExercise -  Click on 'Signup / Login' button
+[INFO ] 2024-07-19 13:18:22.617 [main] AutomationExercise - Login Page is visible Successfully
+[INFO ] 2024-07-19 13:18:22.775 [main] AutomationExercise - New User Signup!' is visible on the login page.
+[INFO ] 2024-07-19 13:18:22.951 [main] AutomationExercise - Enter email
+[INFO ] 2024-07-19 13:18:23.031 [main] AutomationExercise - Enter password
+[INFO ] 2024-07-19 13:18:24.936 [main] AutomationExercise - Cick Login Button
+[INFO ] 2024-07-19 13:18:26.980 [main] AutomationExercise - Cick Logout Button
+[INFO ] 2024-07-19 13:18:26.981 [main] AutomationExercise - Login Page is visible Successfully
+[INFO ] 2024-07-19 13:18:28.637 [main] AutomationExercise -  Click on 'Signup / Login' button
+[INFO ] 2024-07-19 13:18:28.662 [main] AutomationExercise - Login Page is visible Successfully
+[INFO ] 2024-07-19 13:18:28.800 [main] AutomationExercise - New User Signup!' is visible on the login page.
+[INFO ] 2024-07-19 13:18:28.925 [main] AutomationExercise - Enter name
+[INFO ] 2024-07-19 13:18:29.051 [main] AutomationExercise - Enter email address
+[INFO ] 2024-07-19 13:18:31.482 [main] AutomationExercise - Cick Sign up Button
+[INFO ] 2024-07-19 13:18:31.538 [main] AutomationExercise - Verify error 'Email Address already exist!' is visible
+[INFO ] 2024-07-19 13:18:49.958 [main] AutomationExercise - url opened
+[INFO ] 2024-07-19 13:18:50.047 [main] AutomationExercise - Homepage is visible successfully.
+[INFO ] 2024-07-19 13:18:51.509 [main] AutomationExercise -  Click on 'Signup / Login' button
+[INFO ] 2024-07-19 13:18:51.518 [main] AutomationExercise - Login Page is visible Successfully
+[INFO ] 2024-07-19 13:18:51.551 [main] AutomationExercise - New User Signup!' is visible on the login page.
+[INFO ] 2024-07-19 13:18:51.691 [main] AutomationExercise - Enter name
+[INFO ] 2024-07-19 13:18:51.795 [main] AutomationExercise - Enter email address
+[INFO ] 2024-07-19 13:18:53.441 [main] AutomationExercise - Cick Sign up Button
+[INFO ] 2024-07-19 13:18:53.474 [main] AutomationExercise - Signup Page is visible Successfully
+[INFO ] 2024-07-19 13:18:53.582 [main] AutomationExercise - ENTER ACCOUNT INFORMATION!' is visible on the signup page.
+[INFO ] 2024-07-19 13:18:53.686 [main] AutomationExercise - Select Title
+[INFO ] 2024-07-19 13:18:53.780 [main] AutomationExercise - Enter password
+[INFO ] 2024-07-19 13:18:53.981 [main] AutomationExercise - Select checkbox 'Receive special offers from our partners!'
+[INFO ] 2024-07-19 13:18:54.068 [main] AutomationExercise - Enter First Name
+[INFO ] 2024-07-19 13:18:54.161 [main] AutomationExercise - Enter Last name
+[INFO ] 2024-07-19 13:18:54.253 [main] AutomationExercise - Enter Company
+[INFO ] 2024-07-19 13:18:54.353 [main] AutomationExercise - Enter Address
+[INFO ] 2024-07-19 13:18:54.447 [main] AutomationExercise - Enter Address2
+[INFO ] 2024-07-19 13:18:54.600 [main] AutomationExercise - Select Country
+[INFO ] 2024-07-19 13:18:54.718 [main] AutomationExercise - Enter State
+[INFO ] 2024-07-19 13:18:54.805 [main] AutomationExercise - Enter City
+[INFO ] 2024-07-19 13:18:54.876 [main] AutomationExercise - Enter ZipCode
+[INFO ] 2024-07-19 13:18:54.962 [main] AutomationExercise - Enter Mobile Number
+[INFO ] 2024-07-19 13:18:56.771 [main] AutomationExercise - Click on Create Account Button
+[INFO ] 2024-07-19 13:18:56.798 [main] AutomationExercise - Account_created Page is visible Successfully
+[INFO ] 2024-07-19 13:18:56.970 [main] AutomationExercise - ACCOUNT CREATED!' is visible on the account create page.
+[INFO ] 2024-07-19 13:18:58.716 [main] AutomationExercise - Click 'Continue' button
+[INFO ] 2024-07-19 13:19:00.910 [main] AutomationExercise - Click ' Delete Account' button
+[INFO ] 2024-07-19 13:19:00.962 [main] AutomationExercise - ACCOUNT DELETED!' is visible on the account delete page.
+[INFO ] 2024-07-19 13:19:02.611 [main] AutomationExercise - Click 'Continue' button
+[INFO ] 2024-07-19 13:19:04.063 [main] AutomationExercise -  Click on 'Signup / Login' button
+[INFO ] 2024-07-19 13:19:04.072 [main] AutomationExercise - Login Page is visible Successfully
+[INFO ] 2024-07-19 13:19:04.116 [main] AutomationExercise - New User Signup!' is visible on the login page.
+[INFO ] 2024-07-19 13:19:04.320 [main] AutomationExercise - Enter email
+[INFO ] 2024-07-19 13:19:04.460 [main] AutomationExercise - Enter password
+[INFO ] 2024-07-19 13:19:06.204 [main] AutomationExercise - Click ' Login' button
+[INFO ] 2024-07-19 13:19:10.008 [main] AutomationExercise -  Click on 'Signup / Login' button
+[INFO ] 2024-07-19 13:19:10.022 [main] AutomationExercise - Login Page is visible Successfully
+[INFO ] 2024-07-19 13:19:10.057 [main] AutomationExercise - New User Signup!' is visible on the login page.
+[INFO ] 2024-07-19 13:19:10.327 [main] AutomationExercise - Enter email
+[INFO ] 2024-07-19 13:19:10.399 [main] AutomationExercise - Enter password
+[INFO ] 2024-07-19 13:19:12.052 [main] AutomationExercise - Cick Login Button
+[INFO ] 2024-07-19 13:19:12.078 [main] AutomationExercise - Verify error 'Your email or password is incorrect!' is visible
+[INFO ] 2024-07-19 13:19:13.774 [main] AutomationExercise -  Click on 'Signup / Login' button
+[INFO ] 2024-07-19 13:19:13.786 [main] AutomationExercise - Login Page is visible Successfully
+[INFO ] 2024-07-19 13:19:13.825 [main] AutomationExercise - New User Signup!' is visible on the login page.
+[INFO ] 2024-07-19 13:19:14.050 [main] AutomationExercise - Enter email
+[INFO ] 2024-07-19 13:19:14.147 [main] AutomationExercise - Enter password
+[INFO ] 2024-07-19 13:19:16.103 [main] AutomationExercise - Cick Login Button
+[INFO ] 2024-07-19 13:19:17.993 [main] AutomationExercise - Cick Logout Button
+[INFO ] 2024-07-19 13:19:17.993 [main] AutomationExercise - Login Page is visible Successfully
+[INFO ] 2024-07-19 13:19:19.817 [main] AutomationExercise -  Click on 'Signup / Login' button
+[INFO ] 2024-07-19 13:19:19.827 [main] AutomationExercise - Login Page is visible Successfully
+[INFO ] 2024-07-19 13:19:19.866 [main] AutomationExercise - New User Signup!' is visible on the login page.
+[INFO ] 2024-07-19 13:19:20.052 [main] AutomationExercise - Enter name
+[INFO ] 2024-07-19 13:19:20.168 [main] AutomationExercise - Enter email address
+[INFO ] 2024-07-19 13:19:21.896 [main] AutomationExercise - Cick Sign up Button
+[INFO ] 2024-07-19 13:19:21.941 [main] AutomationExercise - Verify error 'Email Address already exist!' is visible
+[INFO ] 2024-07-19 13:19:38.497 [main] AutomationExercise - url opened
+[INFO ] 2024-07-19 13:19:38.543 [main] AutomationExercise - Homepage is visible successfully.
+[INFO ] 2024-07-19 13:19:40.167 [main] AutomationExercise -  Click on 'Signup / Login' button
+[INFO ] 2024-07-19 13:19:40.200 [main] AutomationExercise - Login Page is visible Successfully
+[INFO ] 2024-07-19 13:19:40.344 [main] AutomationExercise - New User Signup!' is visible on the login page.
+[INFO ] 2024-07-19 13:19:40.467 [main] AutomationExercise - Enter name
+[INFO ] 2024-07-19 13:19:40.636 [main] AutomationExercise - Enter email address
+[INFO ] 2024-07-19 13:19:42.713 [main] AutomationExercise - Cick Sign up Button
+[INFO ] 2024-07-19 13:19:42.724 [main] AutomationExercise - Signup Page is visible Successfully
+[INFO ] 2024-07-19 13:19:42.755 [main] AutomationExercise - ENTER ACCOUNT INFORMATION!' is visible on the signup page.
+[INFO ] 2024-07-19 13:19:42.904 [main] AutomationExercise - Select Title
+[INFO ] 2024-07-19 13:19:43.034 [main] AutomationExercise - Enter password
+[INFO ] 2024-07-19 13:19:43.231 [main] AutomationExercise - Select checkbox 'Receive special offers from our partners!'
+[INFO ] 2024-07-19 13:19:43.312 [main] AutomationExercise - Enter First Name
+[INFO ] 2024-07-19 13:19:43.398 [main] AutomationExercise - Enter Last name
+[INFO ] 2024-07-19 13:19:43.483 [main] AutomationExercise - Enter Company
+[INFO ] 2024-07-19 13:19:43.571 [main] AutomationExercise - Enter Address
+[INFO ] 2024-07-19 13:19:43.665 [main] AutomationExercise - Enter Address2
+[INFO ] 2024-07-19 13:19:43.919 [main] AutomationExercise - Select Country
+[INFO ] 2024-07-19 13:19:44.026 [main] AutomationExercise - Enter State
+[INFO ] 2024-07-19 13:19:44.139 [main] AutomationExercise - Enter City
+[INFO ] 2024-07-19 13:19:44.245 [main] AutomationExercise - Enter ZipCode
+[INFO ] 2024-07-19 13:19:44.355 [main] AutomationExercise - Enter Mobile Number
+[INFO ] 2024-07-19 13:19:47.890 [main] AutomationExercise -  Click on 'Signup / Login' button
+[INFO ] 2024-07-19 13:19:47.918 [main] AutomationExercise - Login Page is visible Successfully
+[INFO ] 2024-07-19 13:19:48.045 [main] AutomationExercise - New User Signup!' is visible on the login page.
+[INFO ] 2024-07-19 13:19:48.202 [main] AutomationExercise - Enter email
+[INFO ] 2024-07-19 13:19:48.325 [main] AutomationExercise - Enter password
+[INFO ] 2024-07-19 13:19:50.190 [main] AutomationExercise - Click ' Login' button
+[INFO ] 2024-07-19 13:19:54.283 [main] AutomationExercise -  Click on 'Signup / Login' button
+[INFO ] 2024-07-19 13:19:54.315 [main] AutomationExercise - Login Page is visible Successfully
+[INFO ] 2024-07-19 13:19:54.400 [main] AutomationExercise - New User Signup!' is visible on the login page.
+[INFO ] 2024-07-19 13:19:54.592 [main] AutomationExercise - Enter email
+[INFO ] 2024-07-19 13:19:54.661 [main] AutomationExercise - Enter password
+[INFO ] 2024-07-19 13:19:59.412 [main] AutomationExercise - Cick Login Button
+[INFO ] 2024-07-19 13:19:59.571 [main] AutomationExercise - Verify error 'Your email or password is incorrect!' is visible
+[INFO ] 2024-07-19 13:20:01.599 [main] AutomationExercise -  Click on 'Signup / Login' button
+[INFO ] 2024-07-19 13:20:01.627 [main] AutomationExercise - Login Page is visible Successfully
+[INFO ] 2024-07-19 13:20:01.769 [main] AutomationExercise - New User Signup!' is visible on the login page.
+[INFO ] 2024-07-19 13:20:01.954 [main] AutomationExercise - Enter email
+[INFO ] 2024-07-19 13:20:02.059 [main] AutomationExercise - Enter password
+[INFO ] 2024-07-19 13:20:06.913 [main] AutomationExercise - Cick Login Button
+[INFO ] 2024-07-19 13:20:08.753 [main] AutomationExercise - Cick Logout Button
+[INFO ] 2024-07-19 13:20:08.754 [main] AutomationExercise - Login Page is visible Successfully
+[INFO ] 2024-07-19 13:20:10.393 [main] AutomationExercise -  Click on 'Signup / Login' button
+[INFO ] 2024-07-19 13:20:10.423 [main] AutomationExercise - Login Page is visible Successfully
+[INFO ] 2024-07-19 13:20:10.458 [main] AutomationExercise - New User Signup!' is visible on the login page.
+[INFO ] 2024-07-19 13:20:10.581 [main] AutomationExercise - Enter name
+[INFO ] 2024-07-19 13:20:10.770 [main] AutomationExercise - Enter email address
+[INFO ] 2024-07-19 13:20:12.654 [main] AutomationExercise - Cick Sign up Button
+[INFO ] 2024-07-19 13:20:12.844 [main] AutomationExercise - Verify error 'Email Address already exist!' is visible
+[INFO ] 2024-07-19 13:20:17.532 [main] AutomationExercise - url opened
+[INFO ] 2024-07-19 13:20:17.563 [main] AutomationExercise - Homepage is visible successfully.
+[INFO ] 2024-07-19 13:20:17.611 [main] AutomationExercise - Scroll home page bottom.
+[INFO ] 2024-07-19 13:20:17.669 [main] AutomationExercise - SUBSCRIPTION is visible on the home page.
+[INFO ] 2024-07-19 13:20:17.794 [main] AutomationExercise - enter subscription email
+[INFO ] 2024-07-19 13:20:17.893 [main] AutomationExercise - Click on subscription button
+[INFO ] 2024-07-19 13:20:17.918 [main] AutomationExercise - 'You have been successfully subscribed!' is visible on the home page.
+[INFO ] 2024-07-19 13:20:23.105 [main] AutomationExercise - url opened
+[INFO ] 2024-07-19 13:20:23.146 [main] AutomationExercise - BRANDS is visible on the home page.
+[INFO ] 2024-07-19 13:20:28.249 [main] AutomationExercise - url opened
+[INFO ] 2024-07-19 13:20:28.318 [main] AutomationExercise - CATEGORY is visible on the home page.
+[INFO ] 2024-07-19 13:20:28.746 [main] AutomationExercise - Click on Category
+[INFO ] 2024-07-19 13:20:30.350 [main] AutomationExercise - Click on SubCategory
+[INFO ] 2024-07-19 13:20:30.360 [main] AutomationExercise - Category Page is visible Successfully
+[INFO ] 2024-07-19 13:20:30.387 [main] AutomationExercise - 'WOMEN -  TOPS PRODUCTS' is visible on the category page.
+[INFO ] 2024-07-19 13:20:34.810 [main] AutomationExercise - url opened
+[INFO ] 2024-07-19 13:20:36.364 [main] AutomationExercise - Click on Contact Us Link
+[INFO ] 2024-07-19 13:20:36.398 [main] AutomationExercise - 'GET IN TOUCH' label is visible on the Contact Us page.
+[INFO ] 2024-07-19 13:20:36.501 [main] AutomationExercise - Entered name
+[INFO ] 2024-07-19 13:20:36.645 [main] AutomationExercise - Entered email
+[INFO ] 2024-07-19 13:20:36.718 [main] AutomationExercise - Entered Subject
+[INFO ] 2024-07-19 13:20:36.796 [main] AutomationExercise - Entered Message
+[INFO ] 2024-07-19 13:20:36.821 [main] AutomationExercise - File upload input is visible
+[INFO ] 2024-07-19 13:20:36.851 [main] AutomationExercise - Uploaded File
+[INFO ] 2024-07-19 13:20:41.215 [main] AutomationExercise - url opened
+[INFO ] 2024-07-19 13:20:42.757 [main] AutomationExercise - Click on product button
+[INFO ] 2024-07-19 13:20:42.781 [main] AutomationExercise - Product page is visible successfully.
+[INFO ] 2024-07-19 13:20:42.795 [main] AutomationExercise - Products list is visible.
+[INFO ] 2024-07-19 13:20:44.578 [main] AutomationExercise - Product details page is visible successfully.
+[INFO ] 2024-07-19 13:20:44.842 [main] AutomationExercise - All product details are visible successfully.
+[INFO ] 2024-07-19 13:20:47.476 [main] AutomationExercise - Click on product button
+[INFO ] 2024-07-19 13:20:47.482 [main] AutomationExercise - Product page is visible successfully.
+[INFO ] 2024-07-19 13:20:47.605 [main] AutomationExercise - Enter search keyword
+[INFO ] 2024-07-19 13:20:49.122 [main] AutomationExercise - Click on Search button
+[INFO ] 2024-07-19 13:20:49.156 [main] AutomationExercise - 'SEARCHED PRODUCTS' header to be visible
+[INFO ] 2024-07-19 13:20:49.310 [main] AutomationExercise - all the search products are visible
+[INFO ] 2024-07-19 13:20:49.337 [main] AutomationExercise - correct Product is displaying 
+[INFO ] 2024-07-19 13:23:01.884 [main] AutomationExercise - url opened
+[INFO ] 2024-07-19 13:23:02.024 [main] AutomationExercise - BRANDS is visible on the home page.
+[INFO ] 2024-07-19 13:25:38.953 [main] AutomationExercise - url opened
+[INFO ] 2024-07-19 13:25:39.011 [main] AutomationExercise - Homepage is visible successfully.
+[INFO ] 2024-07-19 13:25:41.054 [main] AutomationExercise -  Click on 'Signup / Login' button
+[INFO ] 2024-07-19 13:25:41.071 [main] AutomationExercise - Login Page is visible Successfully
+[INFO ] 2024-07-19 13:25:41.165 [main] AutomationExercise - New User Signup!' is visible on the login page.
+[INFO ] 2024-07-19 13:25:41.283 [main] AutomationExercise - Enter name
+[INFO ] 2024-07-19 13:25:41.412 [main] AutomationExercise - Enter email address
+[INFO ] 2024-07-19 13:25:44.150 [main] AutomationExercise - Cick Sign up Button
+[INFO ] 2024-07-19 13:25:44.164 [main] AutomationExercise - Signup Page is visible Successfully
+[INFO ] 2024-07-19 13:25:44.195 [main] AutomationExercise - ENTER ACCOUNT INFORMATION!' is visible on the signup page.
+[INFO ] 2024-07-19 13:25:44.355 [main] AutomationExercise - Select Title
+[INFO ] 2024-07-19 13:25:44.456 [main] AutomationExercise - Enter password
+[INFO ] 2024-07-19 13:25:44.660 [main] AutomationExercise - Select checkbox 'Receive special offers from our partners!'
+[INFO ] 2024-07-19 13:25:44.751 [main] AutomationExercise - Enter First Name
+[INFO ] 2024-07-19 13:25:44.844 [main] AutomationExercise - Enter Last name
+[INFO ] 2024-07-19 13:25:44.987 [main] AutomationExercise - Enter Company
+[INFO ] 2024-07-19 13:25:45.077 [main] AutomationExercise - Enter Address
+[INFO ] 2024-07-19 13:25:45.165 [main] AutomationExercise - Enter Address2
+[INFO ] 2024-07-19 13:25:45.386 [main] AutomationExercise - Select Country
+[INFO ] 2024-07-19 13:25:45.535 [main] AutomationExercise - Enter State
+[INFO ] 2024-07-19 13:25:45.617 [main] AutomationExercise - Enter City
+[INFO ] 2024-07-19 13:25:45.687 [main] AutomationExercise - Enter ZipCode
+[INFO ] 2024-07-19 13:25:45.774 [main] AutomationExercise - Enter Mobile Number
+[INFO ] 2024-07-19 13:25:48.733 [main] AutomationExercise -  Click on 'Signup / Login' button
+[INFO ] 2024-07-19 13:25:48.744 [main] AutomationExercise - Login Page is visible Successfully
+[INFO ] 2024-07-19 13:25:48.769 [main] AutomationExercise - New User Signup!' is visible on the login page.
+[INFO ] 2024-07-19 13:25:48.913 [main] AutomationExercise - Enter email
+[INFO ] 2024-07-19 13:25:48.984 [main] AutomationExercise - Enter password
+[INFO ] 2024-07-19 13:25:51.115 [main] AutomationExercise - Click ' Login' button
+[INFO ] 2024-07-19 13:25:54.364 [main] AutomationExercise -  Click on 'Signup / Login' button
+[INFO ] 2024-07-19 13:25:54.373 [main] AutomationExercise - Login Page is visible Successfully
+[INFO ] 2024-07-19 13:25:54.396 [main] AutomationExercise - New User Signup!' is visible on the login page.
+[INFO ] 2024-07-19 13:25:54.565 [main] AutomationExercise - Enter email
+[INFO ] 2024-07-19 13:25:54.632 [main] AutomationExercise - Enter password
+[INFO ] 2024-07-19 13:25:56.305 [main] AutomationExercise - Cick Login Button
+[INFO ] 2024-07-19 13:25:56.369 [main] AutomationExercise - Verify error 'Your email or password is incorrect!' is visible
+[INFO ] 2024-07-19 13:25:57.860 [main] AutomationExercise -  Click on 'Signup / Login' button
+[INFO ] 2024-07-19 13:25:57.877 [main] AutomationExercise - Login Page is visible Successfully
+[INFO ] 2024-07-19 13:25:57.997 [main] AutomationExercise - New User Signup!' is visible on the login page.
+[INFO ] 2024-07-19 13:25:58.123 [main] AutomationExercise - Enter email
+[INFO ] 2024-07-19 13:25:58.191 [main] AutomationExercise - Enter password
+[INFO ] 2024-07-19 13:26:00.612 [main] AutomationExercise - Cick Login Button
+[INFO ] 2024-07-19 13:26:02.678 [main] AutomationExercise - Cick Logout Button
+[INFO ] 2024-07-19 13:26:02.678 [main] AutomationExercise - Login Page is visible Successfully
+[INFO ] 2024-07-19 13:26:04.415 [main] AutomationExercise -  Click on 'Signup / Login' button
+[INFO ] 2024-07-19 13:26:04.443 [main] AutomationExercise - Login Page is visible Successfully
+[INFO ] 2024-07-19 13:26:04.606 [main] AutomationExercise - New User Signup!' is visible on the login page.
+[INFO ] 2024-07-19 13:26:04.779 [main] AutomationExercise - Enter name
+[INFO ] 2024-07-19 13:26:04.878 [main] AutomationExercise - Enter email address
+[INFO ] 2024-07-19 13:26:06.730 [main] AutomationExercise - Cick Sign up Button
+[INFO ] 2024-07-19 13:26:06.843 [main] AutomationExercise - Verify error 'Email Address already exist!' is visible
+[INFO ] 2024-07-19 13:26:11.336 [main] AutomationExercise - url opened
+[INFO ] 2024-07-19 13:26:11.357 [main] AutomationExercise - Homepage is visible successfully.
+[INFO ] 2024-07-19 13:26:11.462 [main] AutomationExercise - Scroll home page bottom.
+[INFO ] 2024-07-19 13:26:11.533 [main] AutomationExercise - SUBSCRIPTION is visible on the home page.
+[INFO ] 2024-07-19 13:26:11.665 [main] AutomationExercise - enter subscription email
+[INFO ] 2024-07-19 13:26:11.766 [main] AutomationExercise - Click on subscription button
+[INFO ] 2024-07-19 13:26:11.797 [main] AutomationExercise - 'You have been successfully subscribed!' is visible on the home page.
+[INFO ] 2024-07-19 13:26:15.954 [main] AutomationExercise - url opened
+[INFO ] 2024-07-19 13:26:16.025 [main] AutomationExercise - BRANDS is visible on the home page.
+[INFO ] 2024-07-19 13:26:19.446 [main] AutomationExercise - Click on Brand
+[INFO ] 2024-07-19 13:26:19.461 [main] AutomationExercise - Brand Page is visible Successfully
+[INFO ] 2024-07-19 13:26:23.755 [main] AutomationExercise - url opened
+[INFO ] 2024-07-19 13:26:23.791 [main] AutomationExercise - CATEGORY is visible on the home page.
+[INFO ] 2024-07-19 13:26:23.931 [main] AutomationExercise - Click on Category
+[INFO ] 2024-07-19 13:26:26.603 [main] AutomationExercise - Click on SubCategory
+[INFO ] 2024-07-19 13:26:26.609 [main] AutomationExercise - Category Page is visible Successfully
+[INFO ] 2024-07-19 13:26:26.633 [main] AutomationExercise - 'WOMEN -  TOPS PRODUCTS' is visible on the category page.
+[INFO ] 2024-07-19 13:26:31.493 [main] AutomationExercise - url opened
+[INFO ] 2024-07-19 13:26:33.058 [main] AutomationExercise - Click on Contact Us Link
+[INFO ] 2024-07-19 13:26:33.088 [main] AutomationExercise - 'GET IN TOUCH' label is visible on the Contact Us page.
+[INFO ] 2024-07-19 13:26:33.211 [main] AutomationExercise - Entered name
+[INFO ] 2024-07-19 13:26:33.333 [main] AutomationExercise - Entered email
+[INFO ] 2024-07-19 13:26:33.402 [main] AutomationExercise - Entered Subject
+[INFO ] 2024-07-19 13:26:33.476 [main] AutomationExercise - Entered Message
+[INFO ] 2024-07-19 13:26:33.501 [main] AutomationExercise - File upload input is visible
+[INFO ] 2024-07-19 13:26:33.528 [main] AutomationExercise - Uploaded File
+[INFO ] 2024-07-19 13:26:38.611 [main] AutomationExercise - url opened
+[INFO ] 2024-07-19 13:26:40.476 [main] AutomationExercise - Click on product button
+[INFO ] 2024-07-19 13:26:40.503 [main] AutomationExercise - Product page is visible successfully.
+[INFO ] 2024-07-19 13:26:40.533 [main] AutomationExercise - Products list is visible.
+[INFO ] 2024-07-19 13:26:42.400 [main] AutomationExercise - Product details page is visible successfully.
+[INFO ] 2024-07-19 13:26:42.597 [main] AutomationExercise - All product details are visible successfully.
+[INFO ] 2024-07-19 13:26:45.243 [main] AutomationExercise - Click on product button
+[INFO ] 2024-07-19 13:26:45.254 [main] AutomationExercise - Product page is visible successfully.
+[INFO ] 2024-07-19 13:26:45.389 [main] AutomationExercise - Enter search keyword
+[INFO ] 2024-07-19 13:26:47.138 [main] AutomationExercise - Click on Search button
+[INFO ] 2024-07-19 13:26:47.328 [main] AutomationExercise - 'SEARCHED PRODUCTS' header to be visible
+[INFO ] 2024-07-19 13:26:47.450 [main] AutomationExercise - all the search products are visible
+[INFO ] 2024-07-19 13:26:47.471 [main] AutomationExercise - correct Product is displaying 
+[INFO ] 2024-07-19 13:32:39.686 [main] AutomationExercise - url opened
+[INFO ] 2024-07-19 13:32:39.753 [main] AutomationExercise - Homepage is visible successfully.
+[INFO ] 2024-07-19 13:32:41.829 [main] AutomationExercise - Click on 'Signup / Login' button
+[INFO ] 2024-07-19 13:32:41.864 [main] AutomationExercise - Login Page is visible Successfully.
+[INFO ] 2024-07-19 13:32:41.966 [main] AutomationExercise - 'New User Signup!' is visible on the login page.
+[INFO ] 2024-07-19 13:32:42.073 [main] AutomationExercise - Enter name
+[INFO ] 2024-07-19 13:32:42.202 [main] AutomationExercise - Enter email address
+[INFO ] 2024-07-19 13:32:44.312 [main] AutomationExercise - Cick Sign up Button
+[INFO ] 2024-07-19 13:32:44.330 [main] AutomationExercise - Signup Page is visible Successfully.
+[INFO ] 2024-07-19 13:32:44.454 [main] AutomationExercise - 'ENTER ACCOUNT INFORMATION!' is visible on the signup page.
+[INFO ] 2024-07-19 13:32:44.543 [main] AutomationExercise - Select Title
+[INFO ] 2024-07-19 13:32:44.687 [main] AutomationExercise - Enter password
+[INFO ] 2024-07-19 13:32:44.875 [main] AutomationExercise - Select checkbox 'Receive special offers from our partners!'
+[INFO ] 2024-07-19 13:32:44.958 [main] AutomationExercise - Enter First Name
+[INFO ] 2024-07-19 13:32:45.036 [main] AutomationExercise - Enter Last name
+[INFO ] 2024-07-19 13:32:45.114 [main] AutomationExercise - Enter Company
+[INFO ] 2024-07-19 13:32:45.191 [main] AutomationExercise - Enter Address
+[INFO ] 2024-07-19 13:32:45.274 [main] AutomationExercise - Enter Address2
+[INFO ] 2024-07-19 13:32:45.424 [main] AutomationExercise - Select Country
+[INFO ] 2024-07-19 13:32:45.544 [main] AutomationExercise - Enter State
+[INFO ] 2024-07-19 13:32:45.620 [main] AutomationExercise - Enter City
+[INFO ] 2024-07-19 13:32:45.700 [main] AutomationExercise - Enter ZipCode
+[INFO ] 2024-07-19 13:32:45.783 [main] AutomationExercise - Enter Mobile Number
+[INFO ] 2024-07-19 13:32:47.769 [main] AutomationExercise - Account_created Page is visible Successfully
+[INFO ] 2024-07-19 13:32:47.832 [main] AutomationExercise - ACCOUNT CREATED!' is visible on the account create page.
+[INFO ] 2024-07-19 13:32:49.952 [main] AutomationExercise - Click 'Continue' button
+[INFO ] 2024-07-19 13:32:51.591 [main] AutomationExercise - Click ' Delete Account' button
+[INFO ] 2024-07-19 13:32:51.629 [main] AutomationExercise - ACCOUNT DELETED!' is visible on the account delete page.
+[INFO ] 2024-07-19 13:32:53.285 [main] AutomationExercise - Click 'Continue' button
+[INFO ] 2024-07-19 13:32:55.129 [main] AutomationExercise -  Click on 'Signup / Login' button
+[INFO ] 2024-07-19 13:32:55.143 [main] AutomationExercise - Login Page is visible Successfully
+[INFO ] 2024-07-19 13:32:55.181 [main] AutomationExercise - New User Signup!' is visible on the login page.
+[INFO ] 2024-07-19 13:32:55.439 [main] AutomationExercise - Enter email
+[INFO ] 2024-07-19 13:32:55.513 [main] AutomationExercise - Enter password
+[INFO ] 2024-07-19 13:32:57.381 [main] AutomationExercise - Click ' Login' button
+[INFO ] 2024-07-19 13:33:00.841 [main] AutomationExercise -  Click on 'Signup / Login' button
+[INFO ] 2024-07-19 13:33:00.854 [main] AutomationExercise - Login Page is visible Successfully
+[INFO ] 2024-07-19 13:33:00.968 [main] AutomationExercise - New User Signup!' is visible on the login page.
+[INFO ] 2024-07-19 13:33:01.120 [main] AutomationExercise - Enter email
+[INFO ] 2024-07-19 13:33:01.199 [main] AutomationExercise - Enter password
+[INFO ] 2024-07-19 13:33:02.612 [main] AutomationExercise - Cick Login Button
+[INFO ] 2024-07-19 13:33:02.636 [main] AutomationExercise - Verify error 'Your email or password is incorrect!' is visible
+[INFO ] 2024-07-19 13:33:04.278 [main] AutomationExercise -  Click on 'Signup / Login' button
+[INFO ] 2024-07-19 13:33:04.290 [main] AutomationExercise - Login Page is visible Successfully
+[INFO ] 2024-07-19 13:33:04.326 [main] AutomationExercise - New User Signup!' is visible on the login page.
+[INFO ] 2024-07-19 13:33:04.483 [main] AutomationExercise - Enter email
+[INFO ] 2024-07-19 13:33:04.550 [main] AutomationExercise - Enter password
+[INFO ] 2024-07-19 13:33:06.292 [main] AutomationExercise - Cick Login Button
+[INFO ] 2024-07-19 13:33:08.033 [main] AutomationExercise - Cick Logout Button
+[INFO ] 2024-07-19 13:33:08.033 [main] AutomationExercise - Login Page is visible Successfully
+[INFO ] 2024-07-19 13:33:09.464 [main] AutomationExercise -  Click on 'Signup / Login' button
+[INFO ] 2024-07-19 13:33:09.475 [main] AutomationExercise - Login Page is visible Successfully
+[INFO ] 2024-07-19 13:33:09.505 [main] AutomationExercise - New User Signup!' is visible on the login page.
+[INFO ] 2024-07-19 13:33:09.636 [main] AutomationExercise - Enter name
+[INFO ] 2024-07-19 13:33:09.745 [main] AutomationExercise - Enter email address
+[INFO ] 2024-07-19 13:33:11.375 [main] AutomationExercise - Cick Sign up Button
+[INFO ] 2024-07-19 13:33:11.423 [main] AutomationExercise - Verify error 'Email Address already exist!' is visible
+[INFO ] 2024-07-19 13:33:26.205 [main] AutomationExercise - url opened
+[INFO ] 2024-07-19 13:33:26.269 [main] AutomationExercise - Homepage is visible successfully.
+[INFO ] 2024-07-19 13:33:28.191 [main] AutomationExercise - Click on 'Signup / Login' button
+[INFO ] 2024-07-19 13:33:28.223 [main] AutomationExercise - Login Page is visible Successfully.
+[INFO ] 2024-07-19 13:33:28.287 [main] AutomationExercise - 'New User Signup!' is visible on the login page.
+[INFO ] 2024-07-19 13:33:28.398 [main] AutomationExercise - Enter name
+[INFO ] 2024-07-19 13:33:28.522 [main] AutomationExercise - Enter email address
+[INFO ] 2024-07-19 13:33:30.803 [main] AutomationExercise - Cick Sign up Button
+[INFO ] 2024-07-19 13:33:30.847 [main] AutomationExercise - Signup Page is visible Successfully.
+[INFO ] 2024-07-19 13:33:30.971 [main] AutomationExercise - 'ENTER ACCOUNT INFORMATION!' is visible on the signup page.
+[INFO ] 2024-07-19 13:33:31.040 [main] AutomationExercise - Select Title
+[INFO ] 2024-07-19 13:33:31.143 [main] AutomationExercise - Enter password
+[INFO ] 2024-07-19 13:33:31.333 [main] AutomationExercise - Select checkbox 'Receive special offers from our partners!'
+[INFO ] 2024-07-19 13:33:31.418 [main] AutomationExercise - Enter First Name
+[INFO ] 2024-07-19 13:33:31.496 [main] AutomationExercise - Enter Last name
+[INFO ] 2024-07-19 13:33:31.564 [main] AutomationExercise - Enter Company
+[INFO ] 2024-07-19 13:33:31.645 [main] AutomationExercise - Enter Address
+[INFO ] 2024-07-19 13:33:31.722 [main] AutomationExercise - Enter Address2
+[INFO ] 2024-07-19 13:33:31.945 [main] AutomationExercise - Select Country
+[INFO ] 2024-07-19 13:33:32.086 [main] AutomationExercise - Enter State
+[INFO ] 2024-07-19 13:33:32.235 [main] AutomationExercise - Enter City
+[INFO ] 2024-07-19 13:33:32.310 [main] AutomationExercise - Enter ZipCode
+[INFO ] 2024-07-19 13:33:32.395 [main] AutomationExercise - Enter Mobile Number
+[INFO ] 2024-07-19 13:33:34.390 [main] AutomationExercise - Account_created Page is visible Successfully
+[INFO ] 2024-07-19 13:33:34.513 [main] AutomationExercise - ACCOUNT CREATED!' is visible on the account create page.
+[INFO ] 2024-07-19 13:33:37.268 [main] AutomationExercise - Click 'Continue' button
+[INFO ] 2024-07-19 13:33:38.912 [main] AutomationExercise - Click ' Delete Account' button
+[INFO ] 2024-07-19 13:33:39.128 [main] AutomationExercise - ACCOUNT DELETED!' is visible on the account delete page.
+[INFO ] 2024-07-19 13:33:40.799 [main] AutomationExercise - Click 'Continue' button
+[INFO ] 2024-07-19 13:33:42.263 [main] AutomationExercise -  Click on 'Signup / Login' button
+[INFO ] 2024-07-19 13:33:42.288 [main] AutomationExercise - Login Page is visible Successfully
+[INFO ] 2024-07-19 13:33:42.440 [main] AutomationExercise - New User Signup!' is visible on the login page.
+[INFO ] 2024-07-19 13:33:42.580 [main] AutomationExercise - Enter email
+[INFO ] 2024-07-19 13:33:42.652 [main] AutomationExercise - Enter password
+[INFO ] 2024-07-19 13:33:44.483 [main] AutomationExercise - Click ' Login' button
+[INFO ] 2024-07-19 13:33:48.480 [main] AutomationExercise -  Click on 'Signup / Login' button
+[INFO ] 2024-07-19 13:33:48.489 [main] AutomationExercise - Login Page is visible Successfully
+[INFO ] 2024-07-19 13:33:48.514 [main] AutomationExercise - New User Signup!' is visible on the login page.
+[INFO ] 2024-07-19 13:33:48.696 [main] AutomationExercise - Enter email
+[INFO ] 2024-07-19 13:33:48.836 [main] AutomationExercise - Enter password
+[INFO ] 2024-07-19 13:33:50.442 [main] AutomationExercise - Cick Login Button
+[INFO ] 2024-07-19 13:33:50.473 [main] AutomationExercise - Verify error 'Your email or password is incorrect!' is visible
+[INFO ] 2024-07-19 13:33:52.055 [main] AutomationExercise -  Click on 'Signup / Login' button
+[INFO ] 2024-07-19 13:33:52.068 [main] AutomationExercise - Login Page is visible Successfully
+[INFO ] 2024-07-19 13:33:52.103 [main] AutomationExercise - New User Signup!' is visible on the login page.
+[INFO ] 2024-07-19 13:33:52.275 [main] AutomationExercise - Enter email
+[INFO ] 2024-07-19 13:33:52.344 [main] AutomationExercise - Enter password
+[INFO ] 2024-07-19 13:33:54.312 [main] AutomationExercise - Cick Login Button
+[INFO ] 2024-07-19 13:33:56.011 [main] AutomationExercise - Cick Logout Button
+[INFO ] 2024-07-19 13:33:56.012 [main] AutomationExercise - Login Page is visible Successfully
+[INFO ] 2024-07-19 13:33:57.700 [main] AutomationExercise -  Click on 'Signup / Login' button
+[INFO ] 2024-07-19 13:33:57.714 [main] AutomationExercise - Login Page is visible Successfully
+[INFO ] 2024-07-19 13:33:57.742 [main] AutomationExercise - New User Signup!' is visible on the login page.
+[INFO ] 2024-07-19 13:33:57.858 [main] AutomationExercise - Enter name
+[INFO ] 2024-07-19 13:33:57.977 [main] AutomationExercise - Enter email address
+[INFO ] 2024-07-19 13:33:59.495 [main] AutomationExercise - Cick Sign up Button
+[INFO ] 2024-07-19 13:33:59.548 [main] AutomationExercise - Verify error 'Email Address already exist!' is visible
+[INFO ] 2024-07-19 13:34:04.576 [main] AutomationExercise - url opened
+[INFO ] 2024-07-19 13:34:04.598 [main] AutomationExercise - Homepage is visible successfully.
+[INFO ] 2024-07-19 13:34:04.616 [main] AutomationExercise - Scroll home page bottom.
+[INFO ] 2024-07-19 13:34:04.726 [main] AutomationExercise - SUBSCRIPTION is visible on the home page.
+[INFO ] 2024-07-19 13:34:04.861 [main] AutomationExercise - enter subscription email
+[INFO ] 2024-07-19 13:34:04.928 [main] AutomationExercise - Click on subscription button
+[INFO ] 2024-07-19 13:34:04.973 [main] AutomationExercise - 'You have been successfully subscribed!' is visible on the home page.
+[INFO ] 2024-07-19 13:34:08.698 [main] AutomationExercise - url opened
+[INFO ] 2024-07-19 13:34:08.758 [main] AutomationExercise - BRANDS is visible on the home page.
+[INFO ] 2024-07-19 13:34:11.568 [main] AutomationExercise - Click on Brand
+[INFO ] 2024-07-19 13:34:11.810 [main] AutomationExercise - Brand Page is visible Successfully
+[INFO ] 2024-07-19 13:34:17.128 [main] AutomationExercise - url opened
+[INFO ] 2024-07-19 13:34:17.180 [main] AutomationExercise - CATEGORY is visible on the home page.
+[INFO ] 2024-07-19 13:34:17.369 [main] AutomationExercise - Click on Category
+[INFO ] 2024-07-19 13:34:18.897 [main] AutomationExercise - Click on SubCategory
+[INFO ] 2024-07-19 13:34:18.904 [main] AutomationExercise - Category Page is visible Successfully
+[INFO ] 2024-07-19 13:34:18.932 [main] AutomationExercise - 'WOMEN -  TOPS PRODUCTS' is visible on the category page.
+[INFO ] 2024-07-19 13:34:23.324 [main] AutomationExercise - url opened
+[INFO ] 2024-07-19 13:34:25.928 [main] AutomationExercise - Click on Contact Us Link
+[INFO ] 2024-07-19 13:34:25.965 [main] AutomationExercise - 'GET IN TOUCH' label is visible on the Contact Us page.
+[INFO ] 2024-07-19 13:34:26.087 [main] AutomationExercise - Entered name
+[INFO ] 2024-07-19 13:34:26.207 [main] AutomationExercise - Entered email
+[INFO ] 2024-07-19 13:34:26.269 [main] AutomationExercise - Entered Subject
+[INFO ] 2024-07-19 13:34:26.339 [main] AutomationExercise - Entered Message
+[INFO ] 2024-07-19 13:34:26.362 [main] AutomationExercise - File upload input is visible
+[INFO ] 2024-07-19 13:34:26.388 [main] AutomationExercise - Uploaded File
+[INFO ] 2024-07-19 13:34:31.306 [main] AutomationExercise - url opened
+[INFO ] 2024-07-19 13:34:33.079 [main] AutomationExercise - Click on product button
+[INFO ] 2024-07-19 13:34:33.094 [main] AutomationExercise - Product page is visible successfully.
+[INFO ] 2024-07-19 13:34:33.112 [main] AutomationExercise - Products list is visible.
+[INFO ] 2024-07-19 13:34:34.884 [main] AutomationExercise - Product details page is visible successfully.
+[INFO ] 2024-07-19 13:34:35.071 [main] AutomationExercise - All product details are visible successfully.
+[INFO ] 2024-07-19 13:34:36.594 [main] AutomationExercise - Click on product button
+[INFO ] 2024-07-19 13:34:36.605 [main] AutomationExercise - Product page is visible successfully.
+[INFO ] 2024-07-19 13:34:36.729 [main] AutomationExercise - Enter search keyword
+[INFO ] 2024-07-19 13:34:38.253 [main] AutomationExercise - Click on Search button
+[INFO ] 2024-07-19 13:34:38.287 [main] AutomationExercise - 'SEARCHED PRODUCTS' header to be visible
+[INFO ] 2024-07-19 13:34:38.397 [main] AutomationExercise - all the search products are visible
+[INFO ] 2024-07-19 13:34:38.422 [main] AutomationExercise - correct Product is displaying 

@@ -3,33 +3,11 @@
 <suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Test(failed)">
     <classes>
-      <class name="com.automation.testcases.TC_CategoryPageTest">
-        <methods>
-          <include name="setup"/>
-          <include name="tearDown"/>
-          <include name="verifyviewcategoryproduct"/>
-        </methods>
-      </class> <!-- com.automation.testcases.TC_CategoryPageTest -->
-      <class name="com.automation.testcases.TC_ProductPageTest">
-        <methods>
-          <include name="setup"/>
-          <include name="verifyallproductsandproductdetails"/>
-          <include name="tearDown"/>
-        </methods>
-      </class> <!-- com.automation.testcases.TC_ProductPageTest -->
-      <class name="com.automation.testcases.TC_ContactUsPageTest">
-        <methods>
-          <include name="setup"/>
-          <include name="tearDown"/>
-          <include name="VerifyContactUsPage"/>
-        </methods>
-      </class> <!-- com.automation.testcases.TC_ContactUsPageTest -->
       <class name="com.automation.testcases.TC_LoginPageTest">
         <methods>
           <include name="setup"/>
           <include name="tearDown"/>
           <include name="verifyRegistration"/>
-          <include name="VerifyValidlogin"/>
         </methods>
       </class> <!-- com.automation.testcases.TC_LoginPageTest -->
     </classes>
